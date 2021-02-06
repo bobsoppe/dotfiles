@@ -1,0 +1,24 @@
+[core]
+	excludesfile = /Users/bob/.gitignore_global
+
+[user]
+	name = Bob Soppe
+	signingkey = 8DF60E2F0BD0D2B9
+
+[color]
+	ui = always
+
+[commit]
+	gpgsign = true
+
+[pull]
+	ff = only
+
+[gpg]
+	program = /usr/local/bin/gpg
+
+[includeIf "gitdir:/Users/bob/Programming/"]
+	path = /Users/bob/.config/git/github
+
+[includeIf "gitdir:/Users/bob/Work/"]
+	path = /Users/bob/.config/git/bynder
