@@ -4,6 +4,7 @@ tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
+tap "homebrew/services"
 tap "koekeishiya/formulae"
 tap "versent/taps"
 brew "awscli"
@@ -56,7 +57,5 @@ cask "whatsapp"
 cask "wine-crossover"
 cask "zoom"
 mas "Adblock Plus", id: 1432731683
-mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "WireGuard", id: 1451685025
