@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+set -e
+
+/usr/local/bin/saml2aws login --skip-prompt
+
+/usr/local/bin/aws ec2 start-instances --instance-ids "i-0c54173bc5126f2fb"

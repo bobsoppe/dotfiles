@@ -3,6 +3,7 @@
 
 [user]
 	name = Bob Soppe
+	email = bobsoppe@users.noreply.github.com
 	signingkey = 8DF60E2F0BD0D2B9
 
 [color]
@@ -16,9 +17,6 @@
 
 [gpg]
 	program = /usr/local/bin/gpg
-
-[includeIf "gitdir:/Users/bob/Programming/"]
-	path = /Users/bob/.config/git/github
 
 [includeIf "gitdir:/Users/bob/Work/"]
 	path = /Users/bob/.config/git/bynder

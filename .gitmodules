@@ -1,0 +1,3 @@
+[submodule "bynder/.local/src/mu-repo"]
+	path = bynder/.local/src/mu-repo
+	url = git://github.com/fabioz/mu-repo.git

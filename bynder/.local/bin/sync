@@ -1,0 +1,15 @@
+#!/usr/bin/env sh
+
+set -e
+
+/usr/local/bin/rsync --archive --compress --delete ~/Work/brand-templates-automated-tests/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-automated-tests/ &
+/usr/local/bin/rsync --archive --compress --delete ~/Work/brand-templates-end-to-end-tests/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-end-to-end-tests/ &
+/usr/local/bin/rsync --archive --exclude node_modules --compress --delete ~/Work/brand-templates-frontend/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-frontend/ &
+/usr/local/bin/rsync --archive --compress --delete ~/Work/brand-templates-read-handlers-svc/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-read-handlers-svc/ &
+/usr/local/bin/rsync --archive --compress --delete ~/Work/brand-templates-tasks-svc/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-tasks-svc/ &
+/usr/local/bin/rsync --archive --compress --delete ~/Work/brand-templates-write-handlers-svc/ ubuntu@container.bynder.io:/home/ubuntu/projects/brand-templates-write-handlers-svc/ &
+/usr/local/bin/rsync --archive --exclude esyd --compress --delete ~/Work/bynder-graphql/ ubuntu@container.bynder.io:/home/ubuntu/projects/bynder-graphql/ &
+/usr/local/bin/rsync --archive --compress --delete ~/Work/python-brand-templates-domain-lib/ ubuntu@container.bynder.io:/home/ubuntu/projects/python-brand-templates-domain-lib/ &
+
+wait
+echo "Everything is synchronized with the remote development intstance"

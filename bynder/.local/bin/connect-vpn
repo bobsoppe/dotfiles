@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+aws_ips="$(curl --silent https://ip-ranges.amazonaws.com/ip-ranges.json | jq -r '.prefixes[].ip_prefix' | sort -u | xargs)"
+#vpn_script="vpn-slice 10.0.0.0/8 ${aws_ips} jenkins.shared.eu-west-1.bynder.cloud -vv"
+vpn_script="vpn-slice 10.0.0.0/8 ${aws_ips} jenkins.shared.eu-west-1.bynder.cloud"
+password="$(security find-generic-password -s 'Bynder VPN' -a bob.soppe-van.aart@bynder.com -w)"
+
+echo "${password}" | sudo openconnect --script "${vpn_script}" --user bob.soppe-van.aart@bynder.com --authgroup=Rotterdam-vpn --passwd-on-stdin vpn010.bynder.io
