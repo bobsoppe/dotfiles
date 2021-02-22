@@ -1,0 +1,3613 @@
+{
+    "Apple Global Domain" =     {
+        AKLastIDMSEnvironment = 0;
+        AppleInterfaceStyle = Dark;
+        AppleLanguages =         (
+            "en-GB",
+            "nl-NL"
+        );
+        AppleLanguagesDidMigrate = "11.2.1";
+        AppleLanguagesSchemaVersion = 2000;
+        AppleLocale = "en_NL";
+        "com.apple.finder.SyncExtensions" =         {
+            collaborationMap =             {
+            };
+            dirMap =             {
+            };
+        };
+        "com.apple.sound.beep.flash" = 0;
+        "com.apple.springing.delay" = "0.5";
+        "com.apple.springing.enabled" = 1;
+        "com.apple.trackpad.forceClick" = 1;
+    };
+    ContextStoreAgent =     {
+        "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertEventsNotification:/app/usageActivityDate" = "2021-02-22 10:06:30 +0000";
+        "_DKThrottledActivityLast_DKKnowledgeStorageLogging_DKKnowledgeStorageDidInsertLocalEventsNotification:/app/usageActivityDate" = "2021-02-22 10:06:30 +0000";
+    };
+    "com.apple.AMPLibraryAgent" =     {
+        ITUserPrefsMigrated = 1;
+        "books-persistent-id" = 7841575674871067221;
+        debugAssertCategoriesEnabled = 0;
+        debugAssertCategoriesVersion = 3;
+        "devices-persistent-id" = 4397614668854715096;
+        persistentUserID = "-8311734615443109745";
+        "podcasts-persistent-id" = "-6328292092768956223";
+        updateLevel = 0;
+    };
+    "com.apple.Accessibility" =     {
+        AXSClassicInvertColorsPreference = 0;
+        ApplicationAccessibilityEnabled = 0;
+        AutomationEnabled = 0;
+        BrailleInputDeviceConnected = 0;
+        CommandAndControlEnabled = 0;
+        DarkenSystemColors = 0;
+        DifferentiateWithoutColor = 0;
+        EnhancedBackgroundContrastEnabled = 0;
+        FullKeyboardAccessEnabled = 0;
+        FullKeyboardAccessFocusRingEnabled = 1;
+        GenericAccessibilityClientEnabled = 0;
+        GrayscaleDisplay = 0;
+        InvertColorsEnabled = 0;
+        KeyRepeatDelay = "0.5";
+        KeyRepeatEnabled = 1;
+        KeyRepeatInterval = "0.083333333";
+        ReduceMotionEnabled = 0;
+        SpeakThisEnabled = 0;
+        VoiceOverTouchEnabled = 0;
+    };
+    "com.apple.AdLib" =     {
+        allowApplePersonalizedAdvertising = 1;
+        allowIdentifierForAdvertising = 1;
+        personalizedAdsMigrated = 1;
+    };
+    "com.apple.AddressBook" =     {
+        ABBirthDayVisible = 1;
+        ABMetadataLastOilChange = "2021-02-22 10:04:52 +0000";
+        ABVersion = 1419;
+    };
+    "com.apple.AppleMediaServices" =     {
+        AMSStorefrontSuffixes =         {
+        };
+    };
+    "com.apple.AppleMultitouchMouse" =     {
+        MouseButtonDivision = 55;
+        MouseButtonMode = OneButton;
+        MouseHorizontalScroll = 1;
+        MouseMomentumScroll = 1;
+        MouseOneFingerDoubleTapGesture = 0;
+        MouseTwoFingerDoubleTapGesture = 3;
+        MouseTwoFingerHorizSwipeGesture = 2;
+        MouseVerticalScroll = 1;
+        UserPreferences = 1;
+        version = 1;
+    };
+    "com.apple.AppleMultitouchTrackpad" =     {
+        ActuateDetents = 1;
+        Clicking = 0;
+        DragLock = 0;
+        Dragging = 0;
+        FirstClickThreshold = 1;
+        ForceSuppressed = 0;
+        SecondClickThreshold = 1;
+        TrackpadCornerSecondaryClick = 0;
+        TrackpadFiveFingerPinchGesture = 2;
+        TrackpadFourFingerHorizSwipeGesture = 2;
+        TrackpadFourFingerPinchGesture = 2;
+        TrackpadFourFingerVertSwipeGesture = 2;
+        TrackpadHandResting = 1;
+        TrackpadHorizScroll = 1;
+        TrackpadMomentumScroll = 1;
+        TrackpadPinch = 1;
+        TrackpadRightClick = 1;
+        TrackpadRotate = 1;
+        TrackpadScroll = 1;
+        TrackpadThreeFingerDrag = 0;
+        TrackpadThreeFingerHorizSwipeGesture = 2;
+        TrackpadThreeFingerTapGesture = 2;
+        TrackpadThreeFingerVertSwipeGesture = 2;
+        TrackpadTwoFingerDoubleTapGesture = 1;
+        TrackpadTwoFingerFromRightEdgeSwipeGesture = 3;
+        USBMouseStopsTrackpad = 0;
+        UserPreferences = 1;
+        version = 12;
+    };
+    "com.apple.AvatarUI.Staryu" =     {
+        AVTAvatarUIFlushThumbnailCache = 1;
+        AVTAvatarUILastCacheVersion = 299002;
+        AVTUIGlobalPreferencesFlushStickersCache = 1;
+    };
+    "com.apple.BezelServices" =     {
+        BatteryHistory =         {
+        };
+        afActionHistory =         {
+        };
+    };
+    "com.apple.CalendarAgent" =     {
+        databaseWasReset = 0;
+    };
+    "com.apple.CallHistorySyncHelper" =     {
+    };
+    "com.apple.CloudKit" =     {
+        AccountInfoValidationCounter = 2;
+    };
+    "com.apple.CommCenter.counts" =     {
+        CellularBytesRecved =         {
+            starttimestamp = 1613988287522;
+            value = 0;
+        };
+        CellularBytesSent =         {
+            starttimestamp = 1613988287507;
+            value = 0;
+        };
+        MOMMSSendFailedCount =         {
+            starttimestamp = 1613988287401;
+            value = 0;
+        };
+        MOMMSSendSuccessfulCount =         {
+            starttimestamp = 1613988287401;
+            value = 0;
+        };
+        MOSMSSendFailedCount =         {
+            starttimestamp = 1613988287394;
+            value = 0;
+        };
+        MOSMSSendSuccessfulCount =         {
+            starttimestamp = 1613988287393;
+            value = 0;
+        };
+        MTMMSRecvFailedCount =         {
+            starttimestamp = 1613988287403;
+            value = 0;
+        };
+        MTMMSRecvSuccessfulCount =         {
+            starttimestamp = 1613988287402;
+            value = 0;
+        };
+        MTSMSRecvFailedCount =         {
+            starttimestamp = 1613988287397;
+            value = 0;
+        };
+        MTSMSRecvSuccessfulCount =         {
+            starttimestamp = 1613988287396;
+            value = 0;
+        };
+        "SRUMB_Attempt_Count" =         {
+            starttimestamp = 1613988287405;
+            value = 0;
+        };
+        VVMNotificationsRecvedCount =         {
+            starttimestamp = 1613988287403;
+            value = 0;
+        };
+    };
+    "com.apple.CoreGraphics" =     {
+        DisplayUseForcedGray = 0;
+        DisplayUseInvertedPolarity = 0;
+    };
+    "com.apple.DataDeliveryServices" =     {
+    };
+    "com.apple.DiagnosticExtensions.extensionTracker" =     {
+        "com.apple.DiagnosticExtensions.extensionTracker" =         {
+            XPCActivity =             {
+                EarliestExpirationDate = "4001-01-01 00:00:00 +0000";
+                XPCActivityScheduledDate = "4001-01-01 02:00:00 +0000";
+            };
+        };
+    };
+    "com.apple.DictionaryServices" =     {
+        DCSPreferenceVersion = 7;
+    };
+    "com.apple.FolderActionsDispatcher" =     {
+    };
+    "com.apple.FontRegistry.user" =     {
+        LastUpdated = "2021-02-22 10:04:52 +0000";
+        Version = 20D75;
+    };
+    "com.apple.GEO" =     {
+        DefaultsSanitizedVersion = 20190107;
+    };
+    "com.apple.HIToolbox" =     {
+        AppleEnabledInputSources =         (
+                        {
+                InputSourceKind = "Keyboard Layout";
+                "KeyboardLayout ID" = 16300;
+                "KeyboardLayout Name" = Dvorak;
+            },
+                        {
+                "Bundle ID" = "com.apple.CharacterPaletteIM";
+                InputSourceKind = "Non Keyboard Input Method";
+            }
+        );
+    };
+    "com.apple.MobileSMS" =     {
+        CatalystPreferenceMigrationVersion = 1;
+    };
+    "com.apple.SafariBookmarksSyncAgent" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            1ff8fa23cc3a767416c1349b45cb7524b5cd1a4d6d5a492212f84195d0e9abdb = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+        NewestLaunchedSafariBookmarksSyncAgentVersion = "610.4.3.1.4";
+    };
+    "com.apple.ScreenTimeAgent" =     {
+    };
+    "com.apple.ServicesMenu.Services" =     {
+        NSServices =         {
+            CFPrincipalLocalizations =             (
+                "en_GB"
+            );
+            CFVendedServices =             (
+                                {
+                    NSBundleIdentifier = "com.apple.AppleSpell";
+                    NSBundlePath = "/System/Library/Services/AppleSpell.service";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSLanguages =                     (
+                        ar,
+                        ars,
+                        cs,
+                        da,
+                        de,
+                        el,
+                        en,
+                        "en_AU",
+                        "en_CA",
+                        "en_GB",
+                        "en_IN",
+                        "en_JP",
+                        "en_SG",
+                        es,
+                        fi,
+                        fr,
+                        ga,
+                        hi,
+                        hu,
+                        it,
+                        ko,
+                        nb,
+                        nl,
+                        nn,
+                        pa,
+                        pl,
+                        "pt_BR",
+                        "pt_PT",
+                        ro,
+                        ru,
+                        sv,
+                        te,
+                        tr,
+                        vi,
+                        Multilingual
+                    );
+                    NSMenuItem =                     {
+                    };
+                    NSMessage = Apple;
+                    NSPortName = AppleSpell;
+                    NSSpellChecker = Apple;
+                    NSUUID = {length = 20, bytes = 0xf9b7d32729915c2357f94758bc16caef0be6cbb5};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Automator";
+                    NSBundlePath = "/System/Applications/Automator.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Create Service";
+                        "en_GB" = "Create Service";
+                    };
+                    NSMessage = makeNewServiceWithPasteboard;
+                    NSPortName = Automator;
+                    NSSendTypes =                     (
+                        NSStringPboardType,
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x29baf38c28c73822e01cc04b272d39760c217276};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Automator";
+                    NSBundlePath = "/System/Applications/Automator.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Create Workflow";
+                        "en_GB" = "Create Workflow";
+                    };
+                    NSMessage = makeNewWorkflowServiceWithPasteboard;
+                    NSPortName = Automator;
+                    NSSendTypes =                     (
+                        NSStringPboardType,
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x3559f61417ac5620d7ca6af3f0a6493a2ba35de0};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.BluetoothFileExchange";
+                    NSBundlePath = "/System/Applications/Utilities/Bluetooth File Exchange.app";
+                    NSKeyEquivalent =                     {
+                        default = B;
+                    };
+                    NSMenuItem =                     {
+                        default = "Send File To Bluetooth Device";
+                        "en_GB" = "Send File To Bluetooth Device";
+                    };
+                    NSMessage = sendFileUsingBluetoothOBEXService;
+                    NSPortName = BluetoothFileExchange;
+                    NSRequiredContext =                     {
+                        NSTextContent = FilePath;
+                    };
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        "public.plain-text",
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x1a773aa7515ed2fb772673862e55ddb063b2ea8a};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                    NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                    NSKeyEquivalent =                     {
+                        default = "$^@C";
+                        "en_GB" = "$^@C";
+                    };
+                    NSMenuItem =                     {
+                        default = "Convert Text from Simplified to Traditional Chinese";
+                        "en_GB" = "Convert Text to Traditional Chinese";
+                    };
+                    NSMessage = convertTextToTraditionalChinese;
+                    NSPortName = ChineseTextConverterService;
+                    NSRequiredContext =                     {
+                        NSTextTransformation = "Simplified-Traditional";
+                    };
+                    NSReturnTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSSendTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSTimeout = 600000;
+                    NSUUID = {length = 20, bytes = 0xb09d1859dd65c7931e62c0b6b533c00681999609};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                    NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                    NSKeyEquivalent =                     {
+                        default = "$^~@C";
+                        "en_GB" = "$^~@C";
+                    };
+                    NSMenuItem =                     {
+                        default = "Convert Text from Traditional to Simplified Chinese";
+                        "en_GB" = "Convert Text to Simplified Chinese";
+                    };
+                    NSMessage = convertTextToSimplifiedChinese;
+                    NSPortName = ChineseTextConverterService;
+                    NSRequiredContext =                     {
+                        NSTextTransformation = "Traditional-Simplified";
+                    };
+                    NSReturnTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSSendTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSTimeout = 600000;
+                    NSUUID = {length = 20, bytes = 0x977ff30bed13f68b41883b0441a15feeff6bdddd};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                    NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Convert Text to Full Width";
+                        "en_GB" = "Convert Text to Full Width";
+                    };
+                    NSMessage = convertTextToFullWidth;
+                    NSPortName = ChineseTextConverterService;
+                    NSReturnTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSSendTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSTimeout = 600000;
+                    NSUUID = {length = 20, bytes = 0x365d7066439424d4a1e6ccd4d75d0b88c81fa2d5};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ChineseTextConverterService";
+                    NSBundlePath = "/System/Library/Services/ChineseTextConverterService.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Convert Text to Half Width";
+                        "en_GB" = "Convert Text to Half Width";
+                    };
+                    NSMessage = convertTextToHalfWidth;
+                    NSPortName = ChineseTextConverterService;
+                    NSReturnTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSSendTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSTimeout = 600000;
+                    NSUUID = {length = 20, bytes = 0xc151a5fd7a43241de48ca3ccd7aab2fac2615085};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Dictionary";
+                    NSBundlePath = "/System/Applications/Dictionary.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Look Up in Dictionary";
+                        "en_GB" = "Look Up in Dictionary";
+                    };
+                    NSMessage = doLookupService;
+                    NSPortName = Dictionary;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x6a948d3b92636f879bae3bb1efee1716a87418ef};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.FolderActionsSetup";
+                    NSBundlePath = "/System/Library/CoreServices/Applications/Folder Actions Setup.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Folder Actions Setup";
+                        "en_GB" = "Folder Actions Setup\\U2026";
+                    };
+                    NSMessage = openFilesFromPasteboard;
+                    NSPortName = "Folder Actions Setup";
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x3fb49a3f78098c0fa83296f3f3d50a1411c9ec99};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.FontBook";
+                    NSBundlePath = "/System/Applications/Font Book.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Font Book/Create Font Library From Text";
+                        "en_GB" = "Font Book/Create Font Library From Text";
+                    };
+                    NSMessage = createLibraryFromText;
+                    NSPortName = "Font Book";
+                    NSSendTypes =                     (
+                        NSRTFPboardType,
+                        NSRTFDPboardType,
+                        NSHTMLPboardType,
+                        NSURLPboardType,
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xbd0512c8061aef7f94b8edc0b40b2ab0d8cf784d};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.FontBook";
+                    NSBundlePath = "/System/Applications/Font Book.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Font Book/Create Collection From Text";
+                        "en_GB" = "Font Book/Create Collection From Text";
+                    };
+                    NSMessage = createCollectionFromText;
+                    NSPortName = "Font Book";
+                    NSSendTypes =                     (
+                        NSRTFPboardType,
+                        NSRTFDPboardType,
+                        NSHTMLPboardType,
+                        NSURLPboardType,
+                        NSFilenamesPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x45acad9ad4c829e5603464f3701d7a60b5179523};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.FontBook";
+                    NSBundlePath = "/System/Applications/Font Book.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Font Book/Display Font Information";
+                        "en_GB" = "Font Book/Display Font Information";
+                    };
+                    NSMessage = displayFontInformation;
+                    NSPortName = "Font Book";
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        NSRTFPboardType,
+                        NSRTFDPboardType,
+                        NSHTMLPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xad94dff0057c776a08acb3b36df80f4f748a2ce1};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.OpenSpell";
+                    NSBundlePath = "/System/Library/Services/OpenSpell.service";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSLanguages =                     (
+                        "*"
+                    );
+                    NSMenuItem =                     {
+                    };
+                    NSMessage = Open;
+                    NSPortName = OpenSpell;
+                    NSSpellChecker = Open;
+                    NSUUID = {length = 20, bytes = 0x40a820e68fca955116ee02f9d0fa23542f4ac7d8};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Preview";
+                    NSBundlePath = "/System/Applications/Preview.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Preview/Open images";
+                        "en_GB" = "Preview/Open images";
+                    };
+                    NSMessage = serviceOpenImage;
+                    NSPortName = Preview;
+                    NSSendTypes =                     (
+                        NSPasteboardTypeTIFF
+                    );
+                    NSUUID = {length = 20, bytes = 0xa69d62ac80352904987ea1739412eb01cc10e0c1};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.QuickTime.service.encodeSelectedAudioFiles";
+                    NSBundlePath = "/System/Library/Services/Encode Selected Audio Files.workflow";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Encode Selected Audio Files";
+                        "en_GB" = "Encode Selected Audio Files";
+                    };
+                    NSMessage = runWorkflowAsService;
+                    NSRequiredContext =                     {
+                        NSApplicationIdentifier = "com.apple.finder";
+                    };
+                    NSSendFileTypes =                     (
+                        "public.audio"
+                    );
+                    NSUUID = {length = 20, bytes = 0xd07e59ea72ce9eb79fb210dbed3da047cd7a76e0};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Safari";
+                    NSBundlePath = "/Applications/Safari.app";
+                    NSKeyEquivalent =                     {
+                        default = L;
+                    };
+                    NSMenuItem =                     {
+                        default = "Search With %WebSearchProvider@";
+                        "en_GB" = "Search With %WebSearchProvider@";
+                    };
+                    NSMessage = searchWithWebSearchProvider;
+                    NSPortName = Safari;
+                    NSSendTypes =                     (
+                        "public.utf8-plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x4542ef48931888ff63abbe2126bba6958f71764d};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Safari";
+                    NSBundlePath = "/Applications/Safari.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Add to Reading List";
+                        "en_GB" = "Add to Reading List";
+                    };
+                    NSMessage = addToReadingList;
+                    NSPortName = Safari;
+                    NSRequiredContext =                     (
+                                                {
+                            NSTextContent = URL;
+                        },
+                                                {
+                            NSLinkSchemes =                             (
+                                http,
+                                https
+                            );
+                        }
+                    );
+                    NSSendTypes =                     (
+                        "public.rtf",
+                        "public.utf8-plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0xcf5e7eeec4c427aed793b68e8195bd2d29879c16};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ScriptEditor2";
+                    NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Script Editor/Make New AppleScript";
+                        "en_GB" = "Script Editor/Make New AppleScript";
+                    };
+                    NSMessage = makeNewAppleScript;
+                    NSPortName = "Script Editor";
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xc050f2fb4e7677ba648fc58904e3a41cee12b19b};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ScriptEditor2";
+                    NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Script Editor/Run as AppleScript";
+                        "en_GB" = "Script Editor/Run as AppleScript";
+                    };
+                    NSMessage = runAsAppleScript;
+                    NSPortName = "Script Editor";
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x61931036ffbc5b35de5cd83232eccf73ef644c9e};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.ScriptEditor2";
+                    NSBundlePath = "/System/Applications/Utilities/Script Editor.app";
+                    NSKeyEquivalent =                     {
+                        default = "*";
+                        "en_GB" = "*";
+                    };
+                    NSMenuItem =                     {
+                        default = "Script Editor/Get Result of AppleScript";
+                        "en_GB" = "Script Editor/Get Result of AppleScript";
+                    };
+                    NSMessage = runAsAppleScript;
+                    NSPortName = "Script Editor";
+                    NSRestricted = 1;
+                    NSReturnTypes =                     (
+                        NSRTFDPboardType,
+                        NSRTFPboardType,
+                        NSStringPboardType
+                    );
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xc6d98b51947fd8be3813ac9e4d09e7c7390d10ae};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.SpotlightService";
+                    NSBundlePath = "/System/Library/Services/Spotlight.service";
+                    NSKeyEquivalent =                     {
+                        default = F;
+                    };
+                    NSMenuItem =                     {
+                        default = "SEARCH_WITH_SPOTLIGHT";
+                        "en_GB" = Spotlight;
+                    };
+                    NSMessage = doSearchWithSpotlight;
+                    NSPortName = SpotlightService;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xefd17d4625cf3842c6773451ee162733f6ef4136};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Stickies";
+                    NSBundlePath = "/System/Applications/Stickies.app";
+                    NSKeyEquivalent =                     {
+                        default = Y;
+                        "en_GB" = Y;
+                    };
+                    NSMenuItem =                     {
+                        default = "Make Sticky";
+                        "en_GB" = "Make New Sticky Note";
+                    };
+                    NSMessage = makeStickyFromTextService;
+                    NSPortName = Stickies;
+                    NSSendTypes =                     (
+                        "public.plain-text",
+                        "public.rtf",
+                        "com.apple.flat-rtfd"
+                    );
+                    NSUUID = {length = 20, bytes = 0x512acb785c325905349105e6af8db1a2306309f1};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.SummaryService";
+                    NSBundlePath = "/System/Library/Services/SummaryService.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = Summarize;
+                        "en_GB" = Summarise;
+                    };
+                    NSMessage = doSummarization;
+                    NSPortName = SummaryService;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xae51c058b8ccab9cd99f4f6f04902114a826b4a7};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Terminal";
+                    NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "New Terminal at Folder";
+                        "en_GB" = "New Terminal at Folder";
+                    };
+                    NSMessage = newTerminalAtFolder;
+                    NSPortName = Terminal;
+                    NSRequiredContext =                     {
+                        NSTextContent = FilePath;
+                    };
+                    NSSendFileTypes =                     (
+                        "public.directory",
+                        "com.apple.resolvable"
+                    );
+                    NSSendTypes =                     (
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0xbd4221ff3ce56611c8dcd05d7b030de19a3ca7dc};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Terminal";
+                    NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "New Terminal Tab at Folder";
+                        "en_GB" = "New Terminal Tab at Folder";
+                    };
+                    NSMessage = newTerminalAtFolder;
+                    NSPortName = Terminal;
+                    NSRequiredContext =                     {
+                        NSTextContent = FilePath;
+                    };
+                    NSSendFileTypes =                     (
+                        "public.directory",
+                        "com.apple.resolvable"
+                    );
+                    NSSendTypes =                     (
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x1d3eca09c8455ab819a8b81724474aae9881f9fd};
+                    NSUserData = "New Tab";
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Terminal";
+                    NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                    NSKeyEquivalent =                     {
+                        default = M;
+                    };
+                    NSMenuItem =                     {
+                        default = "Open man Page in Terminal";
+                        "en_GB" = "Open man Page in Terminal";
+                    };
+                    NSMessage = openManPage;
+                    NSPortName = Terminal;
+                    NSRequiredContext =                     {
+                        NSWordLimit = 20;
+                    };
+                    NSSendTypes =                     (
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x55dfaad7ca5d764072c3db0a09246864631f460e};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.Terminal";
+                    NSBundlePath = "/System/Applications/Utilities/Terminal.app";
+                    NSKeyEquivalent =                     {
+                        default = A;
+                    };
+                    NSMenuItem =                     {
+                        default = "Search man Page Index in Terminal";
+                        "en_GB" = "Search man Page Index in Terminal";
+                    };
+                    NSMessage = searchManPages;
+                    NSPortName = Terminal;
+                    NSRequiredContext =                     {
+                        NSWordLimit = 20;
+                    };
+                    NSSendTypes =                     (
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x2193fb4567cef246b2817c6b474cf6bf62c04523};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.TextEdit";
+                    NSBundlePath = "/System/Applications/TextEdit.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "New TextEdit Window Containing Selection";
+                        "en_GB" = "New TextEdit Window Containing Selection";
+                    };
+                    NSMessage = openSelection;
+                    NSPortName = TextEdit;
+                    NSSendTypes =                     (
+                        "com.apple.flat-rtfd",
+                        "public.rtf",
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x7e281e2c8632130621c2a21729afae218dad17d3};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.TextEdit";
+                    NSBundlePath = "/System/Applications/TextEdit.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Open Selected File in TextEdit";
+                        "en_GB" = "Open Selected File in TextEdit";
+                    };
+                    NSMessage = openFile;
+                    NSPortName = TextEdit;
+                    NSRequiredContext =                     {
+                        NSTextContent = FilePath;
+                    };
+                    NSSendTypes =                     (
+                        "public.plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0xa04c6e983615da28682c1d114f8217acc79fa0a6};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.finder";
+                    NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                    NSForbiddenContext =                     {
+                        NSApplicationIdentifier = "com.apple.finder";
+                    };
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Finder/Open";
+                        "en_GB" = "Finder/Open";
+                    };
+                    NSMessage = open;
+                    NSPortName = Finder;
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        NSStringPboardType,
+                        NSFilenamesPboardType,
+                        NSURLPboardType,
+                        NSMultipleTextSelectionPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x1970a62585935e838debf45d1a78a88413f38bb3};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.finder";
+                    NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                    NSForbiddenContext =                     {
+                        NSApplicationIdentifier = "com.apple.finder";
+                    };
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Finder/Reveal";
+                        "en_GB" = "Finder/Show in Finder";
+                    };
+                    NSMessage = reveal;
+                    NSPortName = Finder;
+                    NSRestricted = 0;
+                    NSSendTypes =                     (
+                        NSStringPboardType,
+                        NSFilenamesPboardType,
+                        NSURLPboardType,
+                        NSMultipleTextSelectionPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x7aad25fd065d7c2ccc98ad540cdbcd5027755da9};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.finder";
+                    NSBundlePath = "/System/Library/CoreServices/Finder.app";
+                    NSForbiddenContext =                     {
+                        NSApplicationIdentifier = "com.apple.finder";
+                    };
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Finder/Show Info";
+                        "en_GB" = "Finder/Show Info in Finder";
+                    };
+                    NSMessage = showInfo;
+                    NSPortName = Finder;
+                    NSRestricted = 0;
+                    NSSendTypes =                     (
+                        NSStringPboardType,
+                        NSFilenamesPboardType,
+                        NSURLPboardType,
+                        NSMultipleTextSelectionPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x34c73473eeb0e6833b581be5d8facc54522cb60c};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.mail";
+                    NSBundlePath = "/System/Applications/Mail.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Mail/New Email With Selection";
+                        "en_GB" = "Mail/New Email With Selection";
+                    };
+                    NSMessage = mailSelection;
+                    NSPortName = Mail;
+                    NSSendTypes =                     (
+                        NSPasteboardTypeRTFD,
+                        NSPasteboardTypeRTF,
+                        NSPasteboardTypeString,
+                        "Apple Web Archive pasteboard type"
+                    );
+                    NSUUID = {length = 20, bytes = 0xd762f60a7f172262477243e85b145ac24fe22875};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.mail";
+                    NSBundlePath = "/System/Applications/Mail.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Mail/New Email To Address";
+                        "en_GB" = "Mail/New Email To Address";
+                    };
+                    NSMessage = mailTo;
+                    NSPortName = Mail;
+                    NSSendTypes =                     (
+                        NSPasteboardTypeString
+                    );
+                    NSUUID = {length = 20, bytes = 0xbcc9267728beb02d377a0ae366fda4d57e99bf64};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.services.addToiTunesAsSpokenTrack";
+                    NSBundlePath = "/System/Library/Services/Add to Music as a Spoken Track.workflow";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Add to Music as a Spoken Track";
+                        "en_GB" = "Add to Music as a Spoken Track";
+                    };
+                    NSMessage = runWorkflowAsService;
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        "public.utf8-plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x23ed2186e073899913c0c12cd00f6a7681c4f43d};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.services.encodeSelectedVideoFiles";
+                    NSBundlePath = "/System/Library/Services/Encode Selected Video Files.workflow";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Encode Selected Video Files";
+                        "en_GB" = "Encode Selected Video Files";
+                    };
+                    NSMessage = runWorkflowAsService;
+                    NSRequiredContext =                     {
+                        NSApplicationIdentifier = "com.apple.finder";
+                    };
+                    NSSendFileTypes =                     (
+                        "public.movie"
+                    );
+                    NSUUID = {length = 20, bytes = 0x768eb5f5c562e846a5560e9e63f20e03e3e24517};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.services.setDesktopPicture";
+                    NSBundlePath = "/System/Library/Services/Set Desktop Picture.workflow";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Set Desktop Picture";
+                        "en_GB" = "Set Desktop Picture";
+                    };
+                    NSMessage = runWorkflowAsService;
+                    NSSendFileTypes =                     (
+                        "public.image"
+                    );
+                    NSUUID = {length = 20, bytes = 0x0669c136d5d48079bdc6cbbabb9e9d27bc0c1b51};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.services.showMap";
+                    NSBundlePath = "/System/Library/Services/Show Map.workflow";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Show Map";
+                        "en_GB" = "Show Map";
+                    };
+                    NSMessage = runWorkflowAsService;
+                    NSRequiredContext =                     {
+                        NSTextContent = Address;
+                    };
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        "public.utf8-plain-text"
+                    );
+                    NSUUID = {length = 20, bytes = 0x3309d4f88979c51eed170b7beef6c043d51690c5};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.speech.SpeechService";
+                    NSBundlePath = "/System/Library/Services/SpeechService.service";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Speech/Start Speaking Text";
+                        "en_GB" = "Speech/Start Speaking Text";
+                    };
+                    NSMessage = doSpeakSelectedText;
+                    NSPortName = ComAppleSpeechSpeechService;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x6fd6c15b4ab810ac1959d4e13b754310e6e3d62a};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.speech.SpeechService";
+                    NSBundlePath = "/System/Library/Services/SpeechService.service";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Speech/Stop Speaking";
+                        "en_GB" = "Speech/Stop Speaking";
+                    };
+                    NSMessage = doStopSpeaking;
+                    NSPortName = ComAppleSpeechSpeechService;
+                    NSSendTypes =                     (
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0x1498140e95d9c9722d6b75f7792b8729508088bf};
+                },
+                                {
+                    NSBundleIdentifier = "com.apple.systemuiserver";
+                    NSBundlePath = "/System/Library/CoreServices/SystemUIServer.app";
+                    NSKeyEquivalent =                     {
+                    };
+                    NSMenuItem =                     {
+                        default = "Open URL";
+                        "en_GB" = "Open URL";
+                    };
+                    NSMessage = openURL;
+                    NSPortName = SystemUIServer;
+                    NSRestricted = 1;
+                    NSSendTypes =                     (
+                        NSURLPboardType,
+                        NSStringPboardType
+                    );
+                    NSUUID = {length = 20, bytes = 0xb2f07f415fa9a00c9ef0d5bd7e275ea20487fcf0};
+                }
+            );
+            CFVersion = 2;
+        };
+    };
+    "com.apple.SetupAssistant" =     {
+        DidSeeAccessibility = 1;
+        DidSeeActivationLock = 0;
+        DidSeeAppStore = 0;
+        DidSeeAppearanceSetup = 1;
+        DidSeeApplePaySetup = 0;
+        DidSeeAvatarSetup = 0;
+        DidSeeCloudSetup = 1;
+        DidSeePrivacy = 1;
+        DidSeeScreenTime = 1;
+        DidSeeSiriSetup = 1;
+        DidSeeSyncSetup = 0;
+        DidSeeSyncSetup2 = 0;
+        DidSeeTouchIDSetup = 0;
+        DidSeeTrueTone = 0;
+        DidSeeiCloudLoginForStorageServices = 1;
+        LastPreLoginTasksPerformedBuild = 20D75;
+        LastPreLoginTasksPerformedVersion = "11.2.1";
+        LastPrivacyBundleVersion = 2;
+        LastSeenBuddyBuildVersion = 20D75;
+        LastSeenCloudProductVersion = "11.2.1";
+        LastSeenDiagnosticsProductVersion = "11.2.1";
+        LastSeenSiriProductVersion = "11.2.1";
+        MiniBuddyLaunchReason = 0;
+        MiniBuddyLaunchedPostMigration = 0;
+        MiniBuddyShouldLaunchToResumeSetup = 0;
+        NSAddServicesToContextMenus = 0;
+        PreviousBuildVersion = 0;
+        PreviousSystemVersion = 0;
+        SkipFirstLoginOptimization = 0;
+    };
+    "com.apple.Siri" =     {
+        StatusMenuVisible = 0;
+    };
+    "com.apple.Siri.SiriTodayExtension" =     {
+        AppleLanguages =         (
+            "en-GB"
+        );
+        AppleLocale = "en_NL";
+        AppleTextDirection = 0;
+    };
+    "com.apple.SiriNCService" =     {
+        AppleLanguages =         (
+            "en-GB"
+        );
+        AppleLocale = "en_NL";
+        AppleTextDirection = 0;
+    };
+    "com.apple.Spotlight" =     {
+        "NSStatusItem Visible Item-0" = 1;
+        "__NSEnableTSMDocumentWindowLevel" = 1;
+        startTime = "635681183.28538";
+    };
+    "com.apple.TelephonyUtilities" =     {
+        CachedVCCaps = 17592188010496;
+        registeredProviders =         (
+            {length = 132, bytes = 0x0a3b636f 6d2e6170 706c652e 74656c65 ... 48006803 68027801 },
+            {length = 83, bytes = 0x0a17636f 6d2e6170 706c652e 636f7265 ... 08021204 23393131 }
+        );
+        registeredProvidersVersion = 1;
+        thumperCallingCapabilitiesStates =         (
+        );
+    };
+    "com.apple.Terminal" =     {
+        "Default Window Settings" = Basic;
+        DefaultProfilesVersion = 1;
+        HasMigratedDefaults = 1;
+        "NSWindow Frame TTAppPreferences" = "931 914 667 554 0 0 2528 1259 ";
+        "NSWindow Frame TTWindow" = "40 492 1656 735 0 0 2528 1259 ";
+        ProfileCurrentVersion = "2.07";
+        SecureKeyboardEntry = 0;
+        "Startup Window Settings" = Basic;
+        "TTAppPreferences Selected Tab" = 0;
+        "Window Settings" =         {
+            Basic =             {
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "1.004032258064516";
+                ProfileCurrentVersion = "2.07";
+                name = Basic;
+                type = "Window Settings";
+            };
+            Grass =             {
+                BackgroundColor = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d2 };
+                CursorColor = {length = 259, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ca };
+                CursorType = 0;
+                Font = {length = 260, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c8 };
+                FontAntialias = 1;
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+                TextBoldColor = {length = 258, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c9 };
+                TextColor = {length = 259, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ca };
+                name = Grass;
+                type = "Window Settings";
+            };
+            Homebrew =             {
+                BackgroundColor = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bf };
+                CursorBlink = 1;
+                CursorColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+                CursorType = 0;
+                Font = {length = 263, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cb };
+                FontAntialias = 0;
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 265, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d0 };
+                TextBoldColor = {length = 239, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b6 };
+                TextColor = {length = 269, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d4 };
+                name = Homebrew;
+                type = "Window Settings";
+            };
+            "Man Page" =             {
+                BackgroundColor = {length = 273, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d8 };
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "1.004032258064516";
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 265, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d0 };
+                TextBoldColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                TextColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                name = "Man Page";
+                rowCount = 48;
+                type = "Window Settings";
+            };
+            Novel =             {
+                BackgroundColor = {length = 261, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cc };
+                CursorColor = {length = 277, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000dc };
+                Font = {length = 260, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c8 };
+                FontAntialias = 1;
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000de };
+                ShowWindowSettingsNameInTitle = 0;
+                TextBoldColor = {length = 262, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cd };
+                TextColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+                name = Novel;
+                type = "Window Settings";
+            };
+            Ocean =             {
+                BackgroundColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "0.9959677419354839";
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 258, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c9 };
+                TextBoldColor = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+                TextColor = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+                fontAllowsDisableAntialias = 0;
+                name = Ocean;
+                type = "Window Settings";
+            };
+            Pro =             {
+                BackgroundBlur = 0;
+                BackgroundColor = {length = 248, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bf };
+                CursorColor = {length = 246, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
+                Font = {length = 259, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000c7 };
+                FontAntialias = 0;
+                FontWidthSpacing = "0.9959677419354839";
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 246, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
+                ShowWindowSettingsNameInTitle = 0;
+                TextBoldColor = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+                TextColor = {length = 246, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000bd };
+                name = Pro;
+                shellExitAction = 2;
+                type = "Window Settings";
+            };
+            "Red Sands" =             {
+                BackgroundColor = {length = 279, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000de };
+                CursorColor = {length = 237, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b4 };
+                CursorType = 1;
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "1.004032258064516";
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 270, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d5 };
+                TextBoldColor = {length = 263, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ce };
+                TextColor = {length = 268, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d3 };
+                fontAllowsDisableAntialias = 0;
+                name = "Red Sands";
+                type = "Window Settings";
+            };
+            "Silver Aerogel" =             {
+                BackgroundAlphaInactive = "0.5";
+                BackgroundBlur = 1;
+                BackgroundBlurInactive = 0;
+                BackgroundColor = {length = 363, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000105 };
+                BackgroundSettingsForInactiveWindows = 1;
+                CursorColor = {length = 240, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000b7 };
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "1.004032258064516";
+                ProfileCurrentVersion = "2.07";
+                SelectionColor = {length = 271, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000d6 };
+                TextBoldColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                TextColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                name = "Silver Aerogel";
+                type = "Window Settings";
+            };
+            "Solid Colors" =             {
+                BackgroundColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                BackgroundImageBookmark = {length = 746, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000029a };
+                CursorColor = {length = 360, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000102 };
+                Font = {length = 267, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000cf };
+                FontAntialias = 1;
+                FontWidthSpacing = "1.004032258064516";
+                ProfileCurrentVersion = "2.07";
+                TextBoldColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                TextColor = {length = 322, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000000ff };
+                name = "Solid Colors";
+                type = "Window Settings";
+            };
+        };
+    };
+    "com.apple.TextInputMenu" =     {
+        visible = 0;
+    };
+    "com.apple.TextInputMenuAgent" =     {
+        "NSStatusItem Visible Item-0" = 0;
+    };
+    "com.apple.UserAccountUpdater" =     {
+        "com.apple.HidLibraryFolderAlready" = 1;
+    };
+    "com.apple.accounts" =     {
+    };
+    "com.apple.accountsd" =     {
+        AuthenticationPluginCache =         {
+            "com.apple.account.126" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.account.163" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.account.AppleAccount" = "iCloudIDAuthentication.bundle";
+            "com.apple.account.AppleIDAuthentication" = "AppleIDSSOAuthenticationPlugin.bundle";
+            "com.apple.account.CalDAV" = "CalendarAuthenticationPlugin.bundle";
+            "com.apple.account.CardDAV" = "ContactsAccountsAuthenticationPlugin.bundle";
+            "com.apple.account.CloudKit" = "CloudKitAuthenticationPlugin.bundle";
+            "com.apple.account.Exchange" = "ExchangeAuthenticationPlugin.bundle";
+            "com.apple.account.FaceTime" = "AAIDSAuthenticationPlugin.bundle";
+            "com.apple.account.GameCenter" = "iCloudIDAuthentication.bundle";
+            "com.apple.account.Google" = "GoogleAuthenticationPlugin.bundle";
+            "com.apple.account.IMAP" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.account.IdentityServices" = "AAIDSAuthenticationPlugin.bundle";
+            "com.apple.account.LDAP" = "ContactsAccountsAuthenticationPlugin.bundle";
+            "com.apple.account.Madrid" = "AAIDSAuthenticationPlugin.bundle";
+            "com.apple.account.POP" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.account.RemoteManagement" = "RemoteManagementAccountAuthentication.bundle";
+            "com.apple.account.SMTP" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.account.Yahoo" = "YahooAuthenticationPlugin.bundle";
+            "com.apple.account.aol" = "YahooAuthenticationPlugin.bundle";
+            "com.apple.account.iTunesStore" = "AMSAccountAuthenticationPlugin.bundle";
+            "com.apple.account.iTunesStore.sandbox" = "AMSAccountAuthenticationPlugin.bundle";
+            "com.apple.account.qq" = "EmailAuthenticationPlugin.bundle";
+            "com.apple.tudou" = "TudouAuthenticationPlugin.bundle";
+            "com.apple.youku" = "YoukuAuthenticationPlugin.bundle";
+        };
+        LastSystemVersion = 20D75;
+    };
+    "com.apple.airplay" =     {
+    };
+    "com.apple.amp.mediasharingd" =     {
+        "home-sharing-computer-id" = "";
+        "home-sharing-enabled" = 0;
+        "home-sharing-group-id" = "";
+        "home-sharing-sequence-id" = 100;
+        "home-sharing-settings" =         {
+            "home-sharing-update-play-counts" = 0;
+            "home-sharing-user-id" = 0;
+            "home-sharing-user-name" = "";
+        };
+        "photo-sharing-enabled" = 0;
+        "photo-sharing-settings" =         {
+            apertureAlbums =             (
+            );
+            apertureCopyOriginalPhotos = 0;
+            apertureCustomAlbumOrder = 0;
+            apertureSyncAllAlbums = 0;
+            apertureSyncAllFaces = 0;
+            apertureSyncMode = 0;
+            apertureSyncPhotoVideos = 0;
+            iPhotoAlbums =             (
+            );
+            iPhotoCopyOriginalPhotos = 0;
+            iPhotoCustomAlbumOrder = 0;
+            iPhotoPrefsMajorVersion = 0;
+            iPhotoPrefsMinorVersion = 0;
+            iPhotoSyncAllAlbums = 0;
+            iPhotoSyncAllFaces = 0;
+            iPhotoSyncMode = 0;
+            iPhotoSyncPhotoVideos = 0;
+            iPhotoUpgradedDistinguishedAlbums = 0;
+            "photo-sharing-source-id" = 0;
+            photosAppAlbums =             (
+            );
+            photosAppAutoIncludeEnabled = 0;
+            photosAppCopyOriginalPhotos = 0;
+            photosAppCustomAlbumOrder = 0;
+            photosAppEventCount = 255;
+            photosAppOnlyFavorites = 0;
+            photosAppSyncAllAlbums = 0;
+            photosAppSyncAllFaces = 0;
+            photosAppSyncMode = 0;
+            photosAppSyncPhotoVideos = 0;
+            photosFolderAlbums =             (
+            );
+            photosFolderCopyOriginalPhotos = 0;
+            photosFolderCustomAlbumOrder = 0;
+            photosFolderInfo =             {
+                syncFolderIsFromMac = 0;
+                syncFolderIsValid = 0;
+            };
+            photosFolderSyncMode = 0;
+            photosFolderSyncPhotoVideos = 0;
+            psAlbumAlbums =             (
+            );
+            psAlbumCopyOriginalPhotos = 0;
+            psAlbumCustomAlbumOrder = 0;
+            psAlbumSyncMode = 0;
+            psAlbumSyncPhotoVideos = 0;
+            psElementsAlbums =             (
+            );
+            psElementsCopyOriginalPhotos = 0;
+            psElementsCustomAlbumOrder = 0;
+            psElementsSyncMode = 0;
+            psElementsSyncPhotoVideos = 0;
+        };
+        "public-sharing-enabled" = 0;
+        "public-sharing-is-protected" = 0;
+        "public-sharing-settings" =         {
+            "public-sharing-share-all-playlists" = 0;
+        };
+        "shared-library-id" = "-865225583778472371";
+        "shared-library-machine-id" = "-770716816879473557";
+        "shared-library-name" = "Bob Soppe-van Aart\\U2019s Library";
+    };
+    "com.apple.amsaccountsd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+    };
+    "com.apple.animoji" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            622631b9c53815cd3bde930b6d46d917cca6274027121c7080fd969a88f43409 = {length = 390, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012a };
+        };
+    };
+    "com.apple.appstored" =     {
+        ArcadeDeviceGUID = 000C29859BBA;
+        ArcadeDeviceID = "C9DD451D-6378-4B75-96C8-24241282F7CB";
+        ArcadeDeviceIDCreationDate = "2021-02-22 10:05:04 +0000";
+        ArcadePayoutDeviceID = "37BD0D8C-1830-4A03-B514-87FED8FB211D";
+        ArcadePayoutIntervalStartDate = "2021-02-22 10:05:10 +0000";
+        ArcadePayoutLaunchesIntervalStartDate = "2021-02-22 10:05:10 +0000";
+        ArcadePayoutResetDate = "2021-02-28 08:00:00 +0000";
+        ArcadeSubscriptionState = Unsubscribed;
+        ArcadeSummaryIntervalStartDate = "2021-02-22 10:05:10 +0000";
+        ArcadeSummaryLaunchesIntervalStartDate = "2021-02-22 10:05:10 +0000";
+        CrossfireIntervalStartDate = "2021-02-22 10:05:49 +0000";
+        CrossfireLaunchesIntervalStartDate = "2021-02-22 10:05:49 +0000";
+        LastOSBuildVersion = 20D75;
+        LastOSInstallDate = "2021-02-22 10:05:06 +0000";
+        "TargetDateAd Platforms Status Conditions" = "2021-03-26 10:05:10 +0000";
+        "TargetDateCacheDelete Push" = "2021-02-22 10:20:10 +0000";
+        TargetDateOcelotPostPayout = "2021-02-22 22:05:10 +0000";
+        TargetDateOcelotPostSummary = "2021-02-22 22:05:10 +0000";
+    };
+    "com.apple.assistant" =     {
+        Accounts =         {
+            "21B867AF-31F4-4A3F-97B7-8DC14FAEDEEF" =             {
+                "Ace Host" = "fr51p02sa:IyL7vwwASMWePz32Ih46Ow";
+                "Build Version" = 20D75;
+                "Connection Policy" =                 {
+                    "$class" = ConnectionPolicy;
+                    "$group" = "com.apple.ace.system";
+                    "$v" = "11.0";
+                    disableMPTCP = 0;
+                    enableOptimisticDNS = 1;
+                    enableTCPNagle = 0;
+                    enableTLS13 = 0;
+                    enableTLS13ZeroRTT = 0;
+                    enableTcpFastOpen = 0;
+                    enabled = 1;
+                    globalTimeout = 0;
+                    mptcpFallbackPort = "-2147483648";
+                    policyId = "odns_odns-on_v1";
+                    routes =                     (
+                    );
+                    timeToLive = 86400;
+                };
+                "Connection Policy Date" = "2021-02-22 10:05:50 +0000";
+                "Connection Policy Hostname" = "https://guzzoni.apple.com";
+                "Last Assistant Data Anchor" = c0362f8fb2234a4c7cf4430eb381f7f4963a96b1;
+                "Validation Expiration" = "2021-02-22 10:05:49 +0000";
+                "Validation Version" = 1;
+            };
+        };
+        "Experiment Identifier" = "A00B2B5E-84A2-46DC-AFAD-23BEDC88C58C";
+        "Flush Session Tickets Cache" = 0;
+        "Initial Interstitial Delay" = "3.5";
+        "Initial Interstitial Delay - stark" = "3.5";
+        "Initial Interstitial Delay for VoiceTrigger One-Shot without Audio Ducking" = "1.75";
+        "Last Known Analytics Store State" = 0;
+        "MultiUser Shared Data Needs Sync" = 1;
+        "Myriad Device Adjust" = "-10";
+        "Myriad Device Class" = 9;
+        "Myriad Device Delay" = 0;
+        "Myriad Device Trump Delay" = "1.75";
+        "Myriad VTEndtimeDistanceThreshold" = "0.5";
+        "Server Has Provisioned Myriad" = 1;
+        "Voice Trigger Needs Sync" = 1;
+    };
+    "com.apple.assistant.backedup" =     {
+        "Output Voice" =         {
+            Custom = 1;
+            Footprint = 0;
+            Gender = 0;
+            Language = "en-GB";
+        };
+        "Session Language" = "en-GB";
+    };
+    "com.apple.assistant.support" =     {
+        "Assistant Enabled" = 0;
+        "Offline Dictation Status" =         {
+            "ar-SA" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "de-DE" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "en-AU" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "en-GB" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "en-IN" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "en-US" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "es-ES" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "es-US" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "fr-FR" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "it-IT" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "ja-JP" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "ko-KR" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "pt-BR" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "ru-RU" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "tr-TR" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "zh-CN" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+            "zh-HK" =             {
+                "High Quality" = 0;
+                Installed = 0;
+            };
+        };
+        "Siri Data Sharing Opt-In Status" = 2;
+    };
+    "com.apple.assistantd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            d00b0b2351f53b68ef5f21fb139a8736daf99e481983ab99468c9931e31d12e6 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    "com.apple.bird" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+    };
+    "com.apple.calculateframework" =     {
+        currencyCache =         {
+            AED = "3.6728";
+            AFN = 77;
+            ALL = "101.6";
+            AMD = "523.98";
+            ANG = "1.785";
+            AOA = "642.915";
+            ARS = "89.06";
+            AUD = "1.2693";
+            AWG = "1.78";
+            AZN = "1.6995";
+            BAM = "1.6169";
+            BBD = 2;
+            BDT = "84.75";
+            BGN = "1.6112";
+            BHD = "0.377";
+            BIF = "1938.3";
+            BMD = 1;
+            BND = "1.323";
+            BOB = "6.83";
+            BRL = "5.4059";
+            BSD = 1;
+            BTN = "72.70999999999999";
+            BWP = "10.9001";
+            BYN = "2.58";
+            BZD = "1.9978";
+            CAD = "1.2631";
+            CDF = "1975.91";
+            CHF = "0.89902";
+            CLF = "0.02398";
+            CLP = "708.4";
+            CNY = "6.461";
+            COP = "3569.3";
+            CRC = "606.37";
+            CUC = 1;
+            CUP = "24.9995";
+            CVE = "91.8";
+            CZK = "21.38";
+            DJF = "177.5";
+            DKK = "6.13867";
+            DOP = "57.78";
+            DZD = "132.14";
+            EGP = "15.61";
+            ERN = "15.05";
+            ETB = "39.7";
+            EUR = "0.8252";
+            FJD = "2.013";
+            FKP = "0.713";
+            GBP = "0.71312";
+            GEL = "3.2921";
+            GHS = "5.7495";
+            GIP = "0.7133";
+            GMD = "51.2";
+            GNF = 10090;
+            GTQ = "7.7305";
+            GYD = "207.56";
+            HKD = "7.75282";
+            HNL = "24.0475";
+            HRK = "6.2491";
+            HTG = "73.5";
+            HUF = "296.35";
+            IDR = "14122.175";
+            ILS = "3.2733";
+            INR = "72.48";
+            IQD = 1458;
+            IRR = 42000;
+            ISK = "128.2";
+            JMD = "149.43";
+            JOD = "0.7078";
+            JPY = "105.614";
+            KES = "109.55";
+            KGS = "84.6212";
+            KHR = 4058;
+            KMF = "405.6";
+            KPW = 900;
+            KRW = "1112.07";
+            KWD = "0.3023";
+            KYD = "0.82";
+            KZT = "416.67";
+            LAK = 9333;
+            LBP = "1505.7";
+            LKR = "193.73";
+            LRD = 172;
+            LSL = "14.68";
+            LTL = "3.0487";
+            LVL = "0.62055";
+            LYD = "4.4485";
+            MAD = "8.9168";
+            MDL = "17.45";
+            MGA = 3725;
+            MKD = "50.69";
+            MMK = 1400;
+            MNT = "2844.69";
+            MOP = "7.9853";
+            MRU = "35.88";
+            MUR = 39;
+            MVR = "15.36";
+            MWK = "771.33";
+            MXN = "20.66";
+            MXV = "3.103295";
+            MYR = "4.04";
+            MZN = "74.34";
+            NAD = "14.835";
+            NGN = 376;
+            NIO = "34.81";
+            NOK = "8.511200000000001";
+            NPR = "116.02";
+            NZD = "1.368";
+            OMR = "0.385";
+            PAB = 1;
+            PEN = "3.6497";
+            PGK = "3.4464";
+            PHP = "48.69";
+            PKR = "158.965";
+            PLN = "3.71043";
+            PYG = "6642.63";
+            QAR = "3.64";
+            RON = "4.0198";
+            RSD = "96.7033";
+            RUB = "74.71331000000001";
+            RWF = "966.97";
+            SAR = "3.7504";
+            SBD = "8.0039";
+            SCR = "20.91";
+            SDG = 55;
+            SEK = "8.28257";
+            SGD = "1.32307";
+            SHP = "0.7133";
+            SLL = "10112.5";
+            SOS = 573;
+            SRD = "14.02";
+            STN = "20.2";
+            SVC = "8.75";
+            SYP = 1256;
+            SZL = "14.834";
+            THB = "30.02";
+            TJS = "11.3027";
+            TMT = "3.35";
+            TND = "2.705";
+            TOP = "2.2498";
+            TRY = "7.00625";
+            TTD = "6.723";
+            TWD = "27.902";
+            TZS = 2314;
+            UAH = "27.85";
+            UGX = 3662;
+            USD = 1;
+            UYU = "42.74";
+            UZS = "10527.27";
+            VES = 1716124;
+            VND = 23176;
+            VUV = "106.3";
+            WST = "2.5356";
+            XAF = "541.0599999999999";
+            XAG = "0.065703";
+            XAU = "0.000773096";
+            XCD = "2.7";
+            XDR = "0.69304";
+            XOF = "541.0599999999999";
+            XPD = "0.000743494";
+            XPF = "98.19";
+            XPT = "0.00109457";
+            YER = "247.65";
+            ZAR = "14.83965";
+            ZMW = "21.67";
+            ZWL = "322.355";
+        };
+        currencyCacheRefreshDate = "2021-02-22 10:06:27 +0000";
+    };
+    "com.apple.classroom" =     {
+    };
+    "com.apple.cloudd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        "com.apple.private.cloudkit.shouldUseGeneratedDeviceID" = 0;
+    };
+    "com.apple.cloudpaird" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            f2c5afb4ba5c72f1e8dd604b3016c2697d372dabf4fed22541b420fa001de987 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+            f99c0ace95c7119d097c4f855cd4534c563a4b516fca790b95d11ba6e4e75ae4 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    "com.apple.commcenter" =     {
+        PhoneServices =         {
+            Version = 1;
+        };
+    };
+    "com.apple.commcenter.data" =     {
+        PersonalitySlots =         (
+            ""
+        );
+    };
+    "com.apple.contacts.donation-agent" =     {
+    };
+    "com.apple.controlcenter" =     {
+        "NSStatusItem Visible BentoBox" = 1;
+        "NSStatusItem Visible Clock" = 1;
+        "NSStatusItem Visible DoNotDisturb" = 0;
+        "NSStatusItem Visible Item-0" = 0;
+        "NSStatusItem Visible Item-1" = 0;
+        "NSStatusItem Visible Item-2" = 0;
+        "NSStatusItem Visible Item-3" = 0;
+        "NSStatusItem Visible ScreenMirroring" = 1;
+    };
+    "com.apple.coreservices.useractivityd.dynamicuseractivites" =     {
+    };
+    "com.apple.corespotlightui" =     {
+        CSReceiverBundleIdentifierState =         {
+            "com.apple.fileprovider.fileproviderd" = 1;
+            "com.apple.reminders" = 1;
+        };
+    };
+    "com.apple.dock" =     {
+        "last-analytics-stamp" =         (
+            "635681189.817957"
+        );
+        loc = "en_GB:NL";
+        "mod-count" = 2;
+        "persistent-apps" =         (
+                        {
+                GUID = 3338288209;
+                "tile-data" =                 {
+                    book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.launchpad.launcher";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Launchpad.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Launchpad;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 169;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288210;
+                "tile-data" =                 {
+                    book = {length = 540, bytes = 0x626f6f6b 1c020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Safari";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///Applications/Safari.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Safari;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288211;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.MobileSMS";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Messages.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Messages;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288212;
+                "tile-data" =                 {
+                    book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.mail";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Mail.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Mail;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288213;
+                "tile-data" =                 {
+                    book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Maps";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Maps.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Maps;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288214;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Photos";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Photos.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Photos;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288215;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.FaceTime";
+                    "dock-extra" = 1;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/FaceTime.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = FaceTime;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288216;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.iCal";
+                    "dock-extra" = 1;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Calendar.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Calendar;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288217;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.AddressBook";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Contacts.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Contacts;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288218;
+                "tile-data" =                 {
+                    book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.reminders";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Reminders.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Reminders;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288219;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Notes";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Notes.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Notes;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288220;
+                "tile-data" =                 {
+                    book = {length = 576, bytes = 0x626f6f6b 40020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.TV";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/TV.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = TV;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288221;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Music";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Music.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Music;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288222;
+                "tile-data" =                 {
+                    book = {length = 580, bytes = 0x626f6f6b 44020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.podcasts";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Podcasts.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Podcasts;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288224;
+                "tile-data" =                 {
+                    book = {length = 584, bytes = 0x626f6f6b 48020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.AppStore";
+                    "dock-extra" = 1;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/App%20Store.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = "App Store";
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            },
+                        {
+                GUID = 3338288225;
+                "tile-data" =                 {
+                    book = {length = 592, bytes = 0x626f6f6b 50020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.systempreferences";
+                    "dock-extra" = 1;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/System%20Preferences.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = "System Preferences";
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 41;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            }
+        );
+        "persistent-others" =         (
+                        {
+                GUID = 3338288226;
+                "tile-data" =                 {
+                    arrangement = 2;
+                    book = {length = 636, bytes = 0x626f6f6b 7c020000 00000410 30000000 ... 04000000 00000000 };
+                    displayas = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///Users/bob/Downloads/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Downloads;
+                    "file-mod-date" = 148768479061954;
+                    "file-type" = 2;
+                    "parent-mod-date" = 137966636315296;
+                    preferreditemsize = "-1";
+                    showas = 1;
+                };
+                "tile-type" = "directory-tile";
+            }
+        );
+        "recent-apps" =         (
+                        {
+                GUID = 3338288227;
+                "tile-data" =                 {
+                    book = {length = 624, bytes = 0x626f6f6b 70020000 00000410 30000000 ... 04000000 00000000 };
+                    "bundle-identifier" = "com.apple.Terminal";
+                    "dock-extra" = 0;
+                    "file-data" =                     {
+                        "_CFURLString" = "file:///System/Applications/Utilities/Terminal.app/";
+                        "_CFURLStringType" = 15;
+                    };
+                    "file-label" = Terminal;
+                    "file-mod-date" = 3660710400;
+                    "file-type" = 1;
+                    "parent-mod-date" = 3660710400;
+                };
+                "tile-type" = "file-tile";
+            }
+        );
+        region = NL;
+        version = 1;
+    };
+    "com.apple.driver.AppleBluetoothMultitouch.mouse" =     {
+        MouseButtonDivision = 55;
+        MouseButtonMode = OneButton;
+        MouseHorizontalScroll = 1;
+        MouseMomentumScroll = 1;
+        MouseOneFingerDoubleTapGesture = 0;
+        MouseTwoFingerDoubleTapGesture = 3;
+        MouseTwoFingerHorizSwipeGesture = 2;
+        MouseVerticalScroll = 1;
+        UserPreferences = 1;
+    };
+    "com.apple.driver.AppleBluetoothMultitouch.trackpad" =     {
+        Clicking = 0;
+        DragLock = 0;
+        Dragging = 0;
+        TrackpadCornerSecondaryClick = 0;
+        TrackpadFiveFingerPinchGesture = 2;
+        TrackpadFourFingerHorizSwipeGesture = 2;
+        TrackpadFourFingerPinchGesture = 2;
+        TrackpadFourFingerVertSwipeGesture = 2;
+        TrackpadHandResting = 1;
+        TrackpadHorizScroll = 1;
+        TrackpadMomentumScroll = 1;
+        TrackpadPinch = 1;
+        TrackpadRightClick = 1;
+        TrackpadRotate = 1;
+        TrackpadScroll = 1;
+        TrackpadThreeFingerDrag = 0;
+        TrackpadThreeFingerHorizSwipeGesture = 2;
+        TrackpadThreeFingerTapGesture = 2;
+        TrackpadThreeFingerVertSwipeGesture = 2;
+        TrackpadTwoFingerDoubleTapGesture = 1;
+        TrackpadTwoFingerFromRightEdgeSwipeGesture = 3;
+        USBMouseStopsTrackpad = 0;
+        UserPreferences = 1;
+        version = 5;
+    };
+    "com.apple.driver.AppleHIDMouse" =     {
+        Button1 = 1;
+        Button2 = 1;
+        Button3 = 0;
+        Button4 = 0;
+        Button4Click = 0;
+        Button4Force = 0;
+        ButtonDominance = 1;
+        ScrollH = 1;
+        ScrollS = 4;
+        ScrollSSize = 30;
+        ScrollV = 1;
+    };
+    "com.apple.facetime.bag" =     {
+        CacheCertificate =         (
+            {length = 1078, bytes = 0x30820432 3082031a a0030201 02021038 ... d418655e 419d7474 },
+            {length = 1020, bytes = 0x308203f8 308202e0 a0030201 02020823 ... b5dd4cdd 46039999 }
+        );
+        CacheTime = 4356;
+        CachedBag = {length = 18995, bytes = 0x3c3f786d 6c207665 7273696f 6e3d2231 ... 2f706c69 73743e0a };
+        CachedSignature = {length = 256, bytes = 0x68fc0012 3287b6a9 3bb13d28 4964913b ... 06f6be66 806e1486 };
+        Date = "635681086.832056";
+        URL = "https://init.ess.apple.com/WebObjects/VCInit.woa/wa/getBag?ix=3";
+    };
+    "com.apple.fileproviderd" =     {
+        "com.apple.fileproviderd.did-drop-daemon-corespotlight-index" = 1;
+    };
+    "com.apple.finder" =     {
+        DesktopViewSettings =         {
+            IconViewSettings =             {
+                arrangeBy = none;
+                backgroundColorBlue = 1;
+                backgroundColorGreen = 1;
+                backgroundColorRed = 1;
+                backgroundType = 0;
+                gridOffsetX = 0;
+                gridOffsetY = 0;
+                gridSpacing = 54;
+                iconSize = 64;
+                labelOnBottom = 1;
+                showIconPreview = 1;
+                showItemInfo = 0;
+                textSize = 12;
+                viewOptionsVersion = 1;
+            };
+        };
+        FXArrangeGroupViewBy = Name;
+        FXDesktopTouchBarUpgradedToTenTwelveOne = 1;
+        FXICloudDriveDeclinedUpgrade = 0;
+        FXICloudDriveDesktop = 0;
+        FXICloudDriveDocuments = 0;
+        FXICloudDriveEnabled = 0;
+        FXICloudDriveFirstSyncDownComplete = 0;
+        FXICloudLoggedIn = 0;
+        FXQuickActionsConfigUpgradeLevel = 1;
+        LastTrashState = 0;
+        ShowExternalHardDrivesOnDesktop = 1;
+        ShowHardDrivesOnDesktop = 0;
+        ShowRemovableMediaOnDesktop = 1;
+        StandardViewSettings =         {
+            ExtendedListViewSettingsV2 =             {
+                calculateAllSizes = 0;
+                columns =                 (
+                                        {
+                        ascending = 1;
+                        identifier = name;
+                        visible = 1;
+                        width = 300;
+                    },
+                                        {
+                        ascending = 0;
+                        identifier = dateModified;
+                        visible = 1;
+                        width = 181;
+                    },
+                                        {
+                        ascending = 0;
+                        identifier = dateCreated;
+                        visible = 0;
+                        width = 181;
+                    },
+                                        {
+                        ascending = 0;
+                        identifier = size;
+                        visible = 1;
+                        width = 97;
+                    },
+                                        {
+                        ascending = 1;
+                        identifier = kind;
+                        visible = 1;
+                        width = 115;
+                    },
+                                        {
+                        ascending = 1;
+                        identifier = label;
+                        visible = 0;
+                        width = 100;
+                    },
+                                        {
+                        ascending = 1;
+                        identifier = version;
+                        visible = 0;
+                        width = 75;
+                    },
+                                        {
+                        ascending = 1;
+                        identifier = comments;
+                        visible = 0;
+                        width = 300;
+                    },
+                                        {
+                        ascending = 0;
+                        identifier = dateLastOpened;
+                        visible = 0;
+                        width = 200;
+                    }
+                );
+                iconSize = 16;
+                showIconPreview = 1;
+                sortColumn = name;
+                textSize = 13;
+                useRelativeDates = 1;
+                viewOptionsVersion = 1;
+            };
+            GalleryViewSettings =             {
+                arrangeBy = name;
+                iconSize = 48;
+                showIconPreview = 1;
+                viewOptionsVersion = 1;
+            };
+            IconViewSettings =             {
+                arrangeBy = none;
+                backgroundColorBlue = 1;
+                backgroundColorGreen = 1;
+                backgroundColorRed = 1;
+                backgroundType = 0;
+                gridOffsetX = 0;
+                gridOffsetY = 0;
+                gridSpacing = 54;
+                iconSize = 64;
+                labelOnBottom = 1;
+                showIconPreview = 1;
+                showItemInfo = 0;
+                textSize = 12;
+                viewOptionsVersion = 1;
+            };
+            ListViewSettings =             {
+                calculateAllSizes = 0;
+                columns =                 {
+                    comments =                     {
+                        ascending = 1;
+                        index = 7;
+                        visible = 0;
+                        width = 300;
+                    };
+                    dateCreated =                     {
+                        ascending = 0;
+                        index = 2;
+                        visible = 0;
+                        width = 181;
+                    };
+                    dateLastOpened =                     {
+                        ascending = 0;
+                        index = 8;
+                        visible = 0;
+                        width = 200;
+                    };
+                    dateModified =                     {
+                        ascending = 0;
+                        index = 1;
+                        visible = 1;
+                        width = 181;
+                    };
+                    kind =                     {
+                        ascending = 1;
+                        index = 4;
+                        visible = 1;
+                        width = 115;
+                    };
+                    label =                     {
+                        ascending = 1;
+                        index = 5;
+                        visible = 0;
+                        width = 100;
+                    };
+                    name =                     {
+                        ascending = 1;
+                        index = 0;
+                        visible = 1;
+                        width = 300;
+                    };
+                    size =                     {
+                        ascending = 0;
+                        index = 3;
+                        visible = 1;
+                        width = 97;
+                    };
+                    version =                     {
+                        ascending = 1;
+                        index = 6;
+                        visible = 0;
+                        width = 75;
+                    };
+                };
+                iconSize = 16;
+                showIconPreview = 1;
+                sortColumn = name;
+                textSize = 13;
+                useRelativeDates = 1;
+                viewOptionsVersion = 1;
+            };
+            SettingsType = StandardViewSettings;
+        };
+    };
+    "com.apple.homed" =     {
+    };
+    "com.apple.homed.notbackedup" =     {
+    };
+    "com.apple.iCal" =     {
+    };
+    "com.apple.iChat" =     {
+        DidCheckForDuplicateChats = 3;
+        DidMarkGroupPhotosAsUnpurgeable = 1;
+        DidMigratePersonCentricIDs = 1;
+    };
+    "com.apple.icloud.fmfd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        lazyInitTimeSecsStoredKey = 86400;
+    };
+    "com.apple.icloud.fmfd.notbackedup" =     {
+        kKeychainUtilMigrationVersionKey = 1;
+    };
+    "com.apple.icloud.searchpartyuseragent" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            d8077a75110ed142ba696009a2e390280b59fe5ecdee219313ff1d39ac7e169d = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+        "FMIPStateManager.fmipState" = 0;
+        LastOSLaunchVersion = 20D75;
+        PersistenceLayerVersion = 22;
+        lastLaunchBootSessionUUID = "FC48A4BA-D095-4451-B1FE-7AF7A70314AE";
+    };
+    "com.apple.identityservicesd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        DidCleanLegacyAccountPrefs = 1;
+        GDRRequestMadeForRelayRepair = 1;
+        ImportedLegacyIDSAccounts2 = 1;
+        ImportedLegacyIMAccounts = 1;
+        MigratedToNewDisabledState = 1;
+        activityTopics =         (
+            "com.apple.private.alloy.willow-com.apple.HomeKit"
+        );
+        "performed-user-intent-migrate" = 1;
+        "persister-migration-com.apple.identityservices.userStore" = 1;
+    };
+    "com.apple.ids.subservices" =     {
+    };
+    "com.apple.imagecapture" =     {
+        loggingLevel = 3073;
+    };
+    "com.apple.imagent" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            87e323ad92ce5372f67ee702f244388cb785fc61d2dd9069d198c04c274a4141 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+        IMChatVocabularyUpdaterDidPerformInitialUpdateKey = 1;
+    };
+    "com.apple.imdpersistence.IMDPersistenceAgent" =     {
+        LogAllIOErrors = 1;
+    };
+    "com.apple.imessage" =     {
+        PreviewTranscodingQualityOnWiFiWasInitializedToDefaultValue = 1;
+        PreviewTranscodingWasInitializedToDefaultValue = 1;
+    };
+    "com.apple.imessage.bag" =     {
+    };
+    "com.apple.imservice.ids.FaceTime" =     {
+        ActiveAccounts =         (
+        );
+        OnlineAccounts =         (
+        );
+    };
+    "com.apple.imservice.ids.iMessage" =     {
+        ActiveAccounts =         (
+        );
+        OnlineAccounts =         (
+        );
+    };
+    "com.apple.ipTelephony" =     {
+        ImsLoggingEnabled = 1;
+    };
+    "com.apple.itunescloud" =     {
+        ICDefaultsKeyLastCookieHeadersForRevokingMusicUserTokens =         {
+        };
+        ICDefaultsKeyLastKnownLocalStoreAccountProperties =         {
+            storefrontIdentifier = "143452-2,8";
+        };
+        ICDefaultsKeyLastKnownSubscriptionStatusBaseCacheKey =         {
+            phoneNumber = "";
+            storefrontID = 143441;
+        };
+        ICDefaultsKeyMediaLibraryAccessApplicationIdentifiersWithTCCAcceptanceDates =         {
+        };
+    };
+    "com.apple.itunescloud.daemon" =     {
+        ICDDefaultsKeyKnowAccountDSIDs =         (
+        );
+    };
+    "com.apple.itunesstored" =     {
+        "AccountsNotificationPlugin.ActiveStorefrontIdentifier" = "143452-2,8";
+    };
+    "com.apple.keyboardservicesd" =     {
+    };
+    "com.apple.loginwindow" =     {
+        MiniBuddyLaunch = 0;
+    };
+    "com.apple.madrid" =     {
+        CKMOCAccountsMatch = 1;
+        CloudKitCheckedMiCSwitchEligibilityOnImagentLaunch = 1;
+        CloudKitIsEligibleForTruthZone = 0;
+        CloudKitIsRemovedFromBackup = 0;
+        CloudKitSyncingEnabled = 0;
+        IMCloudKitAccountStatusKey = 1;
+        IMCloudKitStartingDisableDevices = 0;
+        IMCloudKitStartingEnabledSettingChange = 0;
+        IMCloudKitStartingInitialSync = 0;
+        IMCloudKitStartingPeriodicSync = 0;
+        IMCloudKitSyncControllerSyncRecordTypeKey = 0;
+        IMCloudKitSyncControllerSyncStateKey = 0;
+        IMCloudKitSyncControllerSyncTypeKey = 0;
+        IMCloudKitSyncPaused = 0;
+        initialSyncRecordHasBeenWritten = 1;
+        oneTimeMOCAccountCheckV2 = 1;
+    };
+    "com.apple.mediaanalysisd" =     {
+    };
+    "com.apple.menuextra.clock" =     {
+        DateFormat = "EEE MMM d  j:mm a";
+    };
+    "com.apple.messages.nicknames" =     {
+        NicknameScrutinyDoNotHandle = 0;
+        ReuploadLocalNicknamesVersion = 1;
+    };
+    "com.apple.mobiletimer" =     {
+        DefaultCityAdded = 1;
+        cities =         (
+                        {
+                city =                 {
+                    identifier = 256;
+                    latitude = "37.8";
+                    localeCode = US;
+                    longitude = "-122.4";
+                    timeZone = "US/Pacific";
+                    unlocalizedCountryName = "U.S.A.";
+                    unlocalizedName = "San Francisco";
+                    yahooCode = "USCA0987|2487956";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 199;
+                    latitude = "40.71667";
+                    localeCode = US;
+                    longitude = "-74.01667";
+                    timeZone = "America/New_York";
+                    unlocalizedCountryName = "U.S.A.";
+                    unlocalizedName = "New York";
+                    yahooCode = "USNY0996|2459115";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 149;
+                    latitude = "51.5";
+                    localeCode = GB;
+                    longitude = "-0.166656";
+                    timeZone = "Europe/London";
+                    unlocalizedCountryName = "Great Britain";
+                    unlocalizedCountryOverride = England;
+                    unlocalizedName = London;
+                    yahooCode = "UKXX0318|44418";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 222;
+                    latitude = "48.86665";
+                    localeCode = FR;
+                    longitude = "2.333328";
+                    timeZone = "Europe/Paris";
+                    unlocalizedCountryName = France;
+                    unlocalizedName = Paris;
+                    yahooCode = "FRXX0295|615702";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 186;
+                    latitude = "55.75";
+                    localeCode = RU;
+                    longitude = "37.58333";
+                    timeZone = "Europe/Moscow";
+                    unlocalizedCountryName = Russia;
+                    unlocalizedName = Moscow;
+                    yahooCode = "RSXX0063|2122265";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 31;
+                    latitude = "39.91667";
+                    localeCode = CN;
+                    longitude = "116.4167";
+                    timeZone = "Asia/Shanghai";
+                    unlocalizedCountryName = China;
+                    unlocalizedName = Beijing;
+                    yahooCode = "CHXX0008|2151330";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 295;
+                    latitude = "35.7";
+                    localeCode = JP;
+                    longitude = "139.7667";
+                    timeZone = "Asia/Tokyo";
+                    unlocalizedCountryName = Japan;
+                    unlocalizedName = Tokyo;
+                    yahooCode = "JAXX0085|1118370";
+                };
+                languageCode = en;
+                type = 2;
+            },
+                        {
+                city =                 {
+                    identifier = 287;
+                    latitude = "-33.86666";
+                    localeCode = AU;
+                    longitude = "151.2167";
+                    timeZone = "Australia/Sydney";
+                    unlocalizedCountryName = Australia;
+                    unlocalizedName = Sydney;
+                    yahooCode = "ASXX0086|1105779";
+                };
+                languageCode = en;
+                type = 2;
+            }
+        );
+        citiesLastModified = "2021-02-22 10:04:48 +0000";
+    };
+    "com.apple.ncprefs" =     {
+        apps =         (
+                        {
+                "bundle-id" = "com.apple.iCal";
+                "content_visibility" = 0;
+                flags = 41951254;
+                grouping = 0;
+                path = "/System/Applications/Calendar.app";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 72, bytes = 0xfade0c00 00000048 00000001 00000006 ... 69636500 00000003 };
+                        uuid = "6F25B95F-A5F4-41AE-83FB-A713C60C62C6";
+                    },
+                                        {
+                        flags = 6;
+                        req = {length = 52, bytes = 0xfade0c00 00000034 00000001 00000006 ... 656e7400 00000003 };
+                        uuid = "61BF2176-6489-4A9B-BC26-32EA389B492F";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.FaceTime";
+                "content_visibility" = 0;
+                flags = 41951246;
+                grouping = 0;
+                path = "/System/Applications/FaceTime.app";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 56, bytes = 0xfade0c00 00000038 00000001 00000006 ... 74696573 00000003 };
+                        uuid = "BC12FF61-F84B-4FA9-AC27-F4E3F5FADB75";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.mail";
+                "content_visibility" = 0;
+                flags = 41943054;
+                grouping = 0;
+                path = "/System/Applications/Mail.app";
+            },
+                        {
+                auth = 7;
+                "bundle-id" = "com.apple.MobileSMS";
+                "content_visibility" = 0;
+                flags = 327680014;
+                grouping = 0;
+                path = "/System/Applications/Messages.app";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 74000000 00000003 };
+                        uuid = "053F29F1-C9D9-4527-967E-B417B1933A18";
+                    }
+                );
+            },
+                        {
+                auth = 15;
+                "bundle-id" = "com.apple.reminders";
+                "content_visibility" = 0;
+                flags = 327680022;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.reminders.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 64000000 00000003 };
+                        uuid = "851E25DC-10A1-455A-8056-C4326EEC38CA";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.Safari";
+                "content_visibility" = 0;
+                flags = 41951246;
+                grouping = 0;
+                path = "/Applications/Safari.app";
+            },
+                        {
+                auth = 6;
+                "bundle-id" = "com.apple.notificationcenter.askpermissions";
+                "content_visibility" = 3;
+                flags = 310383127;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.migrationhelper";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.accountsd";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.mdmclient";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.storeassetd";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.TMHelperAgent";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.appstoreagent";
+                "content_visibility" = 3;
+                flags = 41943703;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 52, bytes = 0xfade0c00 00000034 00000001 00000006 ... 656e7400 00000003 };
+                        uuid = "ADAD27C4-B5AF-4734-8C9E-684CC8412CFA";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.cloudpaird";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "com.apple.gamecenter";
+                "content_visibility" = 0;
+                flags = 41951246;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.gamecenter.bundle";
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.askpermissiond";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.BluetoothUIServer";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+            },
+                        {
+                auth = 6;
+                "bundle-id" = "com.apple.ScreenTimeNotifications";
+                "content_visibility" = 0;
+                flags = 327680012;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.ScreenTimeNotifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 56, bytes = 0xfade0c00 00000038 00000001 00000006 ... 74000000 00000003 };
+                        uuid = "62215722-C02F-4ED3-AA05-7FA1CD4C67A0";
+                    }
+                );
+            },
+                        {
+                auth = 6;
+                "bundle-id" = "com.apple.ScreenTimeEnabledNotifications";
+                "content_visibility" = 0;
+                flags = 327680148;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.ScreenTimeEnabledNotifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 56, bytes = 0xfade0c00 00000038 00000001 00000006 ... 74000000 00000003 };
+                        uuid = "ED625530-3415-446B-B130-0779FCC7B730";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.ctkbind";
+                "content_visibility" = 0;
+                flags = 41951254;
+                grouping = 0;
+                path = "/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app";
+                src =                 (
+                                        {
+                        flags = 2;
+                        path = "/System/Library/Frameworks/CryptoTokenKit.framework/ctkbind.app";
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 64000000 00000003 };
+                        uuid = "7D0765BA-F4C8-4814-83C5-057115757089";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.iChat";
+                "content_visibility" = 0;
+                flags = 41943054;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 56, bytes = 0xfade0c00 00000038 00000001 00000006 ... 65736400 00000003 };
+                        uuid = "0105298F-8C35-4C7C-9FFE-BA7A367AF98D";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.sharingd.continuity";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 67640000 00000003 };
+                        uuid = "4E605894-08B0-4224-91B2-D038D1B3D5DA";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.CalendarNotification.CalNCService";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 72, bytes = 0xfade0c00 00000048 00000001 00000006 ... 69636500 00000003 };
+                        uuid = "B33BCED9-B4D6-4B97-9ACA-128E1CF9820F";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.FaceTime";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 56, bytes = 0xfade0c00 00000038 00000001 00000006 ... 74696573 00000003 };
+                        uuid = "F5E38F86-7113-4A6D-BD94-28518A50BEC1";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.security.keychain-circle-notification";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 76, bytes = 0xfade0c00 0000004c 00000001 00000006 ... 696f6e00 00000003 };
+                        uuid = "5E459D63-8FC4-4D48-B91A-2FD522130E62";
+                    }
+                );
+            },
+                        {
+                auth = 7;
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.SoftwareUpdateNotification";
+                "content_visibility" = 3;
+                flags = 327688855;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 72, bytes = 0xfade0c00 00000048 00000001 00000006 ... 67657200 00000003 };
+                        uuid = "E85C51B8-0DAF-474F-9E25-8C3032A0AD56";
+                    }
+                );
+            },
+                        {
+                auth = 4;
+                "bundle-id" = "com.apple.ReplayKitNotifications";
+                "content_visibility" = 3;
+                flags = 327688334;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.ReplayKitNotifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 64000000 00000003 };
+                        uuid = "486F0421-5E9D-46F5-BBB7-D311DDBBB2C1";
+                    }
+                );
+            },
+                        {
+                auth = 39;
+                "bundle-id" = "com.apple.Home";
+                "content_visibility" = 0;
+                flags = 327680014;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.Home.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 44, bytes = 0xfade0c00 0000002c 00000001 00000006 ... 6d656400 00000003 };
+                        uuid = "E434AD79-55B6-45DD-80D0-1DE2199FB628";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "_SYSTEM_CENTER_:com.apple.MobileAccessoryUpdater.fudHelperAgent";
+                "content_visibility" = 3;
+                flags = 41943575;
+                grouping = 0;
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 52, bytes = 0xfade0c00 00000034 00000001 00000006 ... 67656e74 00000003 };
+                        uuid = "56249042-968C-475D-9014-95372AE99FBF";
+                    }
+                );
+            },
+                        {
+                auth = 7;
+                "bundle-id" = "com.apple.controlcenter.notifications.low-battery";
+                "content_visibility" = 3;
+                flags = 327688342;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.controlcenter.notifications.low-battery.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 52, bytes = 0xfade0c00 00000034 00000001 00000006 ... 74657200 00000003 };
+                        uuid = "A0138550-5AD4-4051-BBDA-7E37F23DE08F";
+                    }
+                );
+            },
+                        {
+                "bundle-id" = "com.apple.iBooksX";
+                "content_visibility" = 0;
+                flags = 41951246;
+                grouping = 0;
+                path = "/System/Applications/Books.app";
+                src =                 (
+                                        {
+                        flags = 2;
+                        path = "/System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce";
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 63650000 00000003 };
+                        uuid = "7BBA439F-33D5-4192-ABDE-6EC8A51CCC6E";
+                    }
+                );
+            },
+                        {
+                auth = 7;
+                "bundle-id" = "com.apple.askpermission.notifications";
+                "content_visibility" = 0;
+                flags = 327680150;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.askpermission.notifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 52, bytes = 0xfade0c00 00000034 00000001 00000006 ... 696f6e64 00000003 };
+                        uuid = "5A837356-1736-4C12-B3E1-30D4A0574D3F";
+                    }
+                );
+            },
+                        {
+                auth = 6;
+                "bundle-id" = "com.apple.BTUserNotifications";
+                "content_visibility" = 3;
+                flags = 327688342;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.BTUserNotifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 61697264 00000003 };
+                        uuid = "B03C0935-A91E-470E-B8C8-29BEF0D26C78";
+                    }
+                );
+            },
+                        {
+                auth = 7;
+                "bundle-id" = "com.apple.mdmclient.usernotifications";
+                "content_visibility" = 0;
+                flags = 327680150;
+                grouping = 0;
+                path = "/System/Library/UserNotifications/Bundles/com.apple.mdmclient.usernotifications.bundle";
+                src =                 (
+                                        {
+                        flags = 6;
+                        req = {length = 48, bytes = 0xfade0c00 00000030 00000001 00000006 ... 656e7400 00000003 };
+                        uuid = "443CF110-0228-47AF-9DC7-BBD688E40324";
+                    }
+                );
+            }
+        );
+        "content_visibility" = 2;
+        "dnd_prefs" = {length = 167, bytes = 0x62706c69 73743030 d5010203 04050606 ... 00000000 0000007c };
+        "sort_order" = 0;
+        version = 1;
+    };
+    "com.apple.notificationcenterui" =     {
+        "last-analytics-stamp" = "635681090.5439661";
+        widgets =         {
+            vers = 1;
+            widgets =             (
+                {length = 9190, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 000023ac },
+                {length = 16296, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00003f6e },
+                {length = 16289, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00003f67 },
+                {length = 910, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 00000358 },
+                {length = 9337, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 0000243f },
+                {length = 899, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 0000034d },
+                {length = 12314, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002fe0 },
+                {length = 7879, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00001e8d },
+                {length = 7770, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00001e20 },
+                {length = 851, bytes = 0x62706c69 73743030 d5010203 04050607 ... 00000000 0000031d },
+                {length = 3811, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00000ea9 },
+                {length = 9836, bytes = 0x62706c69 73743030 d6010203 04050607 ... 00000000 00002632 }
+            );
+        };
+    };
+    "com.apple.parsecd" =     {
+        PARDefaultsVersion = 2;
+        PARTestSeed = 29;
+        PARTestSeedExpiration = "2021-02-22 14:06:23 +0000";
+    };
+    "com.apple.photoanalysisd" =     {
+    };
+    "com.apple.photolibraryd" =     {
+    };
+    "com.apple.photos.shareddefaults" =     {
+    };
+    "com.apple.preference.general" =     {
+    };
+    "com.apple.protectedcloudstorage.protectedcloudkeysyncing" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+    };
+    "com.apple.quicklook.ThumbnailsAgent" =     {
+        QLMTCacheSizeLastCheckAbsoluteTime = "635681099.0359451";
+    };
+    "com.apple.rapport" =     {
+        frPruneLastSecs = "635681087.288729";
+        pdFriendSyncStart = "635797068.289222";
+    };
+    "com.apple.remindd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            9e029414066478c1e0e26b90e756b9667bd34226d60ac4a0a6663c7805423fa2 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+        CloudKitAccountStatus = 3;
+        CloudKitZonesNeedingFetchChanges =         (
+        );
+        isDatabaseMigrated = 1;
+        lastDatabaseMigrationSystemBuildVersion = 20D75;
+        lastSyncPoll = "2021-02-22 10:04:54 +0000";
+        preferredDefaultListID = "x-apple-reminderkit://REMCDList/3C8C2A71-84BF-4C87-8EFD-BB4827650D15";
+        preferredDefaultListObjectIDUrl = "x-coredata://9CCB1832-CB90-4BBC-8BEA-A917CA3F27F3/REMCDList/p2";
+        spotlightIndexVersion = 6;
+    };
+    "com.apple.remindd.babysitter" =     {
+        FailedWaiters =         {
+        };
+        LastSystemVersion = 20D75;
+        RefreshingWaiters =         {
+        };
+        RestrictedWaiters =         {
+        };
+    };
+    "com.apple.routined" =     {
+        "LastLaunchDate.routined" = "2021-02-22 10:04:43 +0000";
+        RTDefaultsPersistenceMirroringManagerMirroringAttemptsByBuildMap =         {
+            20D75 = 0;
+        };
+        "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.backup" = "2021-02-22 10:05:01 +0000";
+        "XPCActivityLastAttemptDate.com.apple.routined.persistence.mirroring.post-install" = "2021-02-22 10:06:42 +0000";
+        "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.backup" = "2021-02-22 10:05:01 +0000";
+        "XPCActivityLastCompleteDate.com.apple.routined.persistence.mirroring.post-install" = "2021-02-22 10:06:42 +0000";
+    };
+    "com.apple.scheduler" =     {
+    };
+    "com.apple.screencapture" =     {
+        "last-analytics-stamp" = "635681187.794825";
+    };
+    "com.apple.screensaver" =     {
+    };
+    "com.apple.scriptmenu" =     {
+    };
+    "com.apple.security.KCN" =     {
+        absentCircleWithNoReason = 0;
+        applicationDate = "0001-01-01 00:00:00 +0000";
+        lastCircleStatus = "-1";
+        lastWritten = "2021-02-22 10:04:51 +0000";
+        pendingApplicationReminder = "4001-01-01 00:00:00 +0000";
+        pendingApplicationReminderInterval = 86400;
+    };
+    "com.apple.security.cloudkeychainproxy3.keysToRegister" =     {
+        AlwaysKeys =         (
+            ">KeyParameters",
+            "dbg-Scope"
+        );
+        DSID = "";
+        EnsurePeerRegistration = 0;
+        FirstUnlockKeys =         (
+        );
+        KeyAccountUUID = "6E4343F0-FCDF-46A7-B804-D7A85CAAED61";
+        PendingKeys =         (
+        );
+        SyncBackupPeerIDs =         (
+        );
+        SyncPeerIDs =         (
+        );
+        UnlockedKeys =         (
+        );
+    };
+    "com.apple.security.ctkd-db" =     {
+        classes =         {
+            "com.apple.pivtoken" = "691A09EA-69AF-4A5F-B588-15EEA5C76D5A";
+            "com.apple.setoken" = "69708565-ACD0-46E6-A8D3-A5CE556924C2";
+        };
+        tokens =         {
+            "com.apple.setoken:aks" = {length = 432, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000136 };
+        };
+    };
+    "com.apple.security.sosaccount" =     {
+        ghostbustdate = "2021-02-27 17:53:51 +0000";
+    };
+    "com.apple.sharingd" =     {
+        OneTimeAirDropReset2 = 1;
+        UserDefaultsHashesDirtyKey = 0;
+        hashesAreCorrectKey = 1;
+        lastUpdated = "2021-02-22 10:04:54 +0000";
+    };
+    "com.apple.siri.context.service" =     {
+    };
+    "com.apple.spaces" =     {
+    };
+    "com.apple.stocks.account" =     {
+        haveLocalData = 1;
+    };
+    "com.apple.stocks.detailintents" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+    };
+    "com.apple.stocks.widget" =     {
+    };
+    "com.apple.stocks2" =     {
+    };
+    "com.apple.studentd" =     {
+    };
+    "com.apple.suggestd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            d8e52398dab2ba725b73ba4526cd5812bb6994c06d7dc594b5ad88b8e965c46e = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    "com.apple.suggestions" =     {
+        CloudKitPersistedState = {length = 549, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 000001b3 };
+        SuggestionsAllowGeocode = 0;
+        UserAccountsPersistedState =         (
+        );
+    };
+    "com.apple.symbolichotkeys" =     {
+        AppleSymbolicHotKeys =         {
+            164 =             {
+                enabled = 1;
+                value =                 {
+                    parameters =                     (
+                        262144,
+                        4294705151
+                    );
+                    type = modifier;
+                };
+            };
+            79 =             {
+                enabled = 1;
+            };
+            80 =             {
+                enabled = 1;
+            };
+            81 =             {
+                enabled = 1;
+            };
+            82 =             {
+                enabled = 1;
+            };
+        };
+    };
+    "com.apple.syncdefaultsd" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            6417c7ab7b5761db5d909957c768511811f86854d1588fbc29fe46d10b961554 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    "com.apple.systempreferences" =     {
+    };
+    "com.apple.systemuiserver" =     {
+        "__NSEnableTSMDocumentWindowLevel" = 1;
+        "last-analytics-stamp" = "635681187.925203";
+    };
+    "com.apple.talagent" =     {
+        LastKeyChange = "2021-02-22 10:04:45 +0000";
+    };
+    "com.apple.textInput.keyboardServices.textReplacement" =     {
+    };
+    "com.apple.tourist" =     {
+        "seed-notificationDueDate-bigsur_macbook-pro-13" = "2021-02-22 14:05:19 +0000";
+        "seed-numNotifications-+trJt2VsTvK1yfPGwOySDw" = 0;
+        "seed-numNotifications-/+vP78HsSh+Yeb4xJnUT9A" = 0;
+        "seed-numNotifications-2+LvxAVyT6qnV1sDMZT0NA" = 0;
+        "seed-numNotifications-40reAuuYTHOsx4oGcx4qrA" = 0;
+        "seed-numNotifications-APhNaYV1RxSS41lC7ZJJ9Q" = 0;
+        "seed-numNotifications-B70mVuHeT0WUgKh/VdUuZQ" = 0;
+        "seed-numNotifications-EBFV2ZqnQiaqrZhvyifLeQ" = 0;
+        "seed-numNotifications-ETJeJ9/1QmmWUde7uK8fDg" = 0;
+        "seed-numNotifications-EWfaSdJwR/6f1BYGiyLpcQ" = 0;
+        "seed-numNotifications-EeEFv8cyS0CVe3ia2UEehA" = 0;
+        "seed-numNotifications-FQrkbNP9ThKQQtpqx2saFg" = 0;
+        "seed-numNotifications-GZAJdmpdSqmfH2PkCr8ebw" = 0;
+        "seed-numNotifications-JTecrrXDSVut2tSfltty9Q" = 0;
+        "seed-numNotifications-KwUoo0fRRM2VPmIm0V67xg" = 0;
+        "seed-numNotifications-LR2P9+rnQ2q9xSUy1ZgWOw" = 0;
+        "seed-numNotifications-MM3ne3nTR9eXFyVwZ5gN7Q" = 0;
+        "seed-numNotifications-Pa88nesPSO6POlutVN4/Sg" = 0;
+        "seed-numNotifications-SdV08ZZQRxOCWq6JBEXmfg" = 0;
+        "seed-numNotifications-SkI/dLAkQu6k/qpzSOG6Iw" = 0;
+        "seed-numNotifications-Tu81gKhDTvmNkjyqcPBfKA" = 0;
+        "seed-numNotifications-UhiR1M79RWmXLIQr4M0AWw" = 0;
+        "seed-numNotifications-WEyaCPMVRB6HbnmRq9EnNQ" = 0;
+        "seed-numNotifications-We59wh+OTa6c1yas/yppwg" = 0;
+        "seed-numNotifications-aytyxqEmTIOvEz3iS4IbkA" = 0;
+        "seed-numNotifications-b/dLke8ZTQaN9KKrxfwDQw" = 0;
+        "seed-numNotifications-baXokbqsQ/2KLkzIZrR6ng" = 0;
+        "seed-numNotifications-bigsur_imac" = 0;
+        "seed-numNotifications-bigsur_imac-21" = 0;
+        "seed-numNotifications-bigsur_imac-pro" = 0;
+        "seed-numNotifications-bigsur_late-2020_mac-mini" = 0;
+        "seed-numNotifications-bigsur_late-2020_macbook-air" = 0;
+        "seed-numNotifications-bigsur_late-2020_macbook-pro-13" = 0;
+        "seed-numNotifications-bigsur_mac-mini" = 0;
+        "seed-numNotifications-bigsur_mac-pro" = 0;
+        "seed-numNotifications-bigsur_mac_basics" = 0;
+        "seed-numNotifications-bigsur_macbook-pro" = 0;
+        "seed-numNotifications-bigsur_macbook-pro-13" = 0;
+        "seed-numNotifications-bigsur_whats_new" = 0;
+        "seed-numNotifications-bydF6fX5Sp6aBYdEXD0VwQ" = 0;
+        "seed-numNotifications-catalina_early-2020_macbook-air" = 0;
+        "seed-numNotifications-catalina_early-2020_macbook-pro-13" = 0;
+        "seed-numNotifications-catalina_imac" = 0;
+        "seed-numNotifications-catalina_imac-21a" = 0;
+        "seed-numNotifications-catalina_imac-pro" = 0;
+        "seed-numNotifications-catalina_late-2019_macbook-pro" = 0;
+        "seed-numNotifications-catalina_mac-mini" = 0;
+        "seed-numNotifications-catalina_mac-pro" = 0;
+        "seed-numNotifications-catalina_mac_basics" = 0;
+        "seed-numNotifications-catalina_macbook-air" = 0;
+        "seed-numNotifications-catalina_macbook-pro" = 0;
+        "seed-numNotifications-catalina_macbook-pro-13" = 0;
+        "seed-numNotifications-catalina_mid-2020_imac" = 0;
+        "seed-numNotifications-catalina_whats_new" = 0;
+        "seed-numNotifications-d+gfl8CNTNeauANKjf9WqA" = 0;
+        "seed-numNotifications-f/Pn3F4RScOh+GUBKO9sRA" = 0;
+        "seed-numNotifications-fWRpNw7IR3S3qxX63nmvMw" = 0;
+        "seed-numNotifications-hP2OZh+MTEKeFcjgec2gZw" = 0;
+        "seed-numNotifications-krdWS8DSQIqJSqQFXW1/pw" = 0;
+        "seed-numNotifications-kti4ZkMKQFyCL2kbgCY23A" = 0;
+        "seed-numNotifications-lEDfW5O+SZe8KTQ93HGOPA" = 0;
+        "seed-numNotifications-lQlm1yrMS0GPVyAL44id+A" = 0;
+        "seed-numNotifications-n87FVu1TSwGzble8vqBvsg" = 0;
+        "seed-numNotifications-pDWyREoARJm5V1mJYr9GKg" = 0;
+        "seed-numNotifications-srluh6uOQiuWCzxguqhDNw" = 0;
+    };
+    "com.apple.touristd" =     {
+        "seed-notificationDueDate-bigsur_macbook-pro-13" = "2021-02-22 14:05:19 +0000";
+        "seed-numNotifications-+trJt2VsTvK1yfPGwOySDw" = 0;
+        "seed-numNotifications-/+vP78HsSh+Yeb4xJnUT9A" = 0;
+        "seed-numNotifications-2+LvxAVyT6qnV1sDMZT0NA" = 0;
+        "seed-numNotifications-40reAuuYTHOsx4oGcx4qrA" = 0;
+        "seed-numNotifications-APhNaYV1RxSS41lC7ZJJ9Q" = 0;
+        "seed-numNotifications-B70mVuHeT0WUgKh/VdUuZQ" = 0;
+        "seed-numNotifications-EBFV2ZqnQiaqrZhvyifLeQ" = 0;
+        "seed-numNotifications-ETJeJ9/1QmmWUde7uK8fDg" = 0;
+        "seed-numNotifications-EWfaSdJwR/6f1BYGiyLpcQ" = 0;
+        "seed-numNotifications-EeEFv8cyS0CVe3ia2UEehA" = 0;
+        "seed-numNotifications-FQrkbNP9ThKQQtpqx2saFg" = 0;
+        "seed-numNotifications-GZAJdmpdSqmfH2PkCr8ebw" = 0;
+        "seed-numNotifications-JTecrrXDSVut2tSfltty9Q" = 0;
+        "seed-numNotifications-KwUoo0fRRM2VPmIm0V67xg" = 0;
+        "seed-numNotifications-LR2P9+rnQ2q9xSUy1ZgWOw" = 0;
+        "seed-numNotifications-MM3ne3nTR9eXFyVwZ5gN7Q" = 0;
+        "seed-numNotifications-Pa88nesPSO6POlutVN4/Sg" = 0;
+        "seed-numNotifications-SdV08ZZQRxOCWq6JBEXmfg" = 0;
+        "seed-numNotifications-SkI/dLAkQu6k/qpzSOG6Iw" = 0;
+        "seed-numNotifications-Tu81gKhDTvmNkjyqcPBfKA" = 0;
+        "seed-numNotifications-UhiR1M79RWmXLIQr4M0AWw" = 0;
+        "seed-numNotifications-WEyaCPMVRB6HbnmRq9EnNQ" = 0;
+        "seed-numNotifications-We59wh+OTa6c1yas/yppwg" = 0;
+        "seed-numNotifications-aytyxqEmTIOvEz3iS4IbkA" = 0;
+        "seed-numNotifications-b/dLke8ZTQaN9KKrxfwDQw" = 0;
+        "seed-numNotifications-baXokbqsQ/2KLkzIZrR6ng" = 0;
+        "seed-numNotifications-bigsur_imac" = 0;
+        "seed-numNotifications-bigsur_imac-21" = 0;
+        "seed-numNotifications-bigsur_imac-pro" = 0;
+        "seed-numNotifications-bigsur_late-2020_mac-mini" = 0;
+        "seed-numNotifications-bigsur_late-2020_macbook-air" = 0;
+        "seed-numNotifications-bigsur_late-2020_macbook-pro-13" = 0;
+        "seed-numNotifications-bigsur_mac-mini" = 0;
+        "seed-numNotifications-bigsur_mac-pro" = 0;
+        "seed-numNotifications-bigsur_mac_basics" = 0;
+        "seed-numNotifications-bigsur_macbook-pro" = 0;
+        "seed-numNotifications-bigsur_macbook-pro-13" = 0;
+        "seed-numNotifications-bigsur_whats_new" = 0;
+        "seed-numNotifications-bydF6fX5Sp6aBYdEXD0VwQ" = 0;
+        "seed-numNotifications-catalina_early-2020_macbook-air" = 0;
+        "seed-numNotifications-catalina_early-2020_macbook-pro-13" = 0;
+        "seed-numNotifications-catalina_imac" = 0;
+        "seed-numNotifications-catalina_imac-21a" = 0;
+        "seed-numNotifications-catalina_imac-pro" = 0;
+        "seed-numNotifications-catalina_late-2019_macbook-pro" = 0;
+        "seed-numNotifications-catalina_mac-mini" = 0;
+        "seed-numNotifications-catalina_mac-pro" = 0;
+        "seed-numNotifications-catalina_mac_basics" = 0;
+        "seed-numNotifications-catalina_macbook-air" = 0;
+        "seed-numNotifications-catalina_macbook-pro" = 0;
+        "seed-numNotifications-catalina_macbook-pro-13" = 0;
+        "seed-numNotifications-catalina_mid-2020_imac" = 0;
+        "seed-numNotifications-catalina_whats_new" = 0;
+        "seed-numNotifications-d+gfl8CNTNeauANKjf9WqA" = 0;
+        "seed-numNotifications-f/Pn3F4RScOh+GUBKO9sRA" = 0;
+        "seed-numNotifications-fWRpNw7IR3S3qxX63nmvMw" = 0;
+        "seed-numNotifications-hP2OZh+MTEKeFcjgec2gZw" = 0;
+        "seed-numNotifications-krdWS8DSQIqJSqQFXW1/pw" = 0;
+        "seed-numNotifications-kti4ZkMKQFyCL2kbgCY23A" = 0;
+        "seed-numNotifications-lEDfW5O+SZe8KTQ93HGOPA" = 0;
+        "seed-numNotifications-lQlm1yrMS0GPVyAL44id+A" = 0;
+        "seed-numNotifications-n87FVu1TSwGzble8vqBvsg" = 0;
+        "seed-numNotifications-pDWyREoARJm5V1mJYr9GKg" = 0;
+        "seed-numNotifications-srluh6uOQiuWCzxguqhDNw" = 0;
+    };
+    "com.apple.triald" =     {
+    };
+    "com.apple.universalaccess" =     {
+        closeViewHotkeysEnabled = 0;
+        closeViewZoomDisplayID = 0;
+        closeViewZoomFactor = 1;
+        login = 0;
+        sessionChange = 0;
+    };
+    "com.apple.weather.internal" =     {
+        cachedAppConfig = {length = 10814, bytes = 0x7b227072 69766163 79436f6e 66696775 ... 726e616c 227d5d7d };
+        cachedAppConfigLastSavedDate = "2021-02-22 10:04:49 +0000";
+        userId = "B78AB483-C664-47C5-9520-275BF5872C33";
+    };
+    "com.apple.xpc.activity2" =     {
+        ActivityBaseDates =         {
+            "com.apple.AOSHeartbeat.daily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.AddressBook.ScheduledSync" = "2021-02-22 10:04:42 +0000";
+            "com.apple.CacheDelete.daily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.DataDetectorsLocalSource" = "2021-02-22 10:04:42 +0000";
+            "com.apple.EscrowSecurityAlert.daily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.FileProvider.cache-delete.push" = "2021-02-22 10:05:03 +0000";
+            "com.apple.GeoServices.UpdateExperiment" = "2021-02-22 10:05:42 +0000";
+            "com.apple.IMAutomaticHistoryDeletionAgent" = "2021-02-22 10:04:42 +0000";
+            "com.apple.IntlPreferences.analytics" = "2021-02-22 10:04:42 +0000";
+            "com.apple.KeyboardServices.TextReplacementCKSyncTask" = "2021-02-22 10:04:52 +0000";
+            "com.apple.Maps.mapspushd.launchForAnnouncements" = "2021-02-22 10:04:42 +0000";
+            "com.apple.ProtectedCloudStorage.fortnightly" = "2021-02-22 10:04:42 +0000";
+            "com.apple.SafariBookmarksSyncAgent.XPC.CloudTabsZoneSubscriptionRegistration" = "2021-02-22 10:06:17 +0000";
+            "com.apple.SafariBookmarksSyncAgent.XPC.ZoneSubscriptionRegistration" = "2021-02-22 10:05:16 +0000";
+            "com.apple.UsageTrackingAgent.activity.uncategorized-web-usage" = "2021-02-22 10:04:42 +0000";
+            "com.apple.ak.hb" = "2021-02-22 10:04:42 +0000";
+            "com.apple.ak.listupdate" = "2021-02-22 10:04:42 +0000";
+            "com.apple.ak.postinstall" = "2021-02-22 10:04:42 +0000";
+            "com.apple.amsaccountsd.refresh" = "2021-02-22 10:05:15 +0000";
+            "com.apple.amsengagementd.daily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.appstored.AutoUpdates" = "2021-02-22 10:05:06 +0000";
+            "com.apple.appstored.CacheDeleteUpdate" = "2021-02-22 10:05:10 +0000";
+            "com.apple.appstored.Daily" = "2021-02-22 10:05:06 +0000";
+            "com.apple.appstored.activities.AdPlatformsStatusConditions" = "2021-02-22 10:05:10 +0000";
+            "com.apple.avatar.activity.PostInstallMigration" = "2021-02-22 10:06:29 +0000";
+            "com.apple.bird.analytics-report" = "2021-02-22 10:04:42 +0000";
+            "com.apple.bird.app-telemetry" = "2021-02-22 10:04:42 +0000";
+            "com.apple.bird.cache-delete.push" = "2021-02-22 10:04:59 +0000";
+            "com.apple.bird.configuration-server-update" = "2021-02-22 10:04:42 +0000";
+            "com.apple.bird.sync" = "2021-02-22 10:04:42 +0000";
+            "com.apple.calendar.AlarmScan" = "2021-02-22 10:04:42 +0000";
+            "com.apple.calendar.biDailyWork" = "2021-02-22 10:04:50 +0000";
+            "com.apple.calendar.dailyWork" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudkit.assetHandleExpiration" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudkit.operationInfoCacheEviction" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudkit.packageGarbageCollection" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudkit.pcs.sqlcache.evict" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudkit.recordCachePool.expireRecords" = "2021-02-22 10:04:51 +0000";
+            "com.apple.cloudkit.tokenregistration" = "2021-02-22 10:04:50 +0000";
+            "com.apple.cloudphotod.maintenance" = "2021-02-22 10:04:42 +0000";
+            "com.apple.contextkit.mobileasset.check" = "2021-02-22 10:04:50 +0000";
+            "com.apple.coreduetd.knowledge.user" = "2021-02-22 10:04:42 +0000";
+            "com.apple.corespotlightd.updateContacts" = "2021-02-22 10:04:42 +0000";
+            "com.apple.devicecheck.notify" = "2021-02-22 10:04:42 +0000";
+            "com.apple.family.heartbeat" = "2021-02-22 10:04:42 +0000";
+            "com.apple.geo.analytics" = "2021-02-22 10:05:42 +0000";
+            "com.apple.geod.updateNetworkDefaults" = "2021-02-22 10:05:42 +0000";
+            "com.apple.homed.HMDMobileAssetManager.BackgroundActivityScheduler" = "2021-02-22 10:05:14 +0000";
+            "com.apple.homed.logEvent.dailyScheduler" = "2021-02-22 10:05:15 +0000";
+            "com.apple.icloud.searchpartyd.ProductInfoManager" = "2021-02-22 10:05:48 +0000";
+            "com.apple.icloud.searchpartyd.XPCScheduler.BeaconSharing" = "2021-02-23 06:05:49 +0000";
+            "com.apple.ids.key-transparency.verification" = "2021-02-22 10:04:50 +0000";
+            "com.apple.ids.registrationaccountstatusmetric" = "2021-02-22 10:04:50 +0000";
+            "com.apple.itunescloud.ICDBackgroundTaskManager.periodic-poll-activity" = "2021-02-22 10:04:50 +0000";
+            "com.apple.itunescloud.ICInAppMessageManager.periodic-poll-activity" = "2021-02-22 10:04:50 +0000";
+            "com.apple.itunescloud.subscription_status_refresh" = "2021-02-22 10:04:50 +0000";
+            "com.apple.knowledgestore.sync" = "2021-02-22 10:04:53 +0000";
+            "com.apple.kvs.periodic-analytics" = "2021-02-22 10:04:50 +0000";
+            "com.apple.mediaanalysisd.fullanalysis" = "2021-02-22 10:04:42 +0000";
+            "com.apple.mediaanalysisd.photos.face" = "2021-02-22 10:04:42 +0000";
+            "com.apple.mediaanalysisd.photosanalysis" = "2021-02-22 10:04:42 +0000";
+            "com.apple.messages.chatSyncing" = "2021-02-22 10:04:50 +0000";
+            "com.apple.messages.ckMetricsLogging" = "2021-02-22 10:04:50 +0000";
+            "com.apple.messages.messageSyncing" = "2021-02-22 10:04:50 +0000";
+            "com.apple.messages.spotlightIndexing" = "2021-02-22 10:04:50 +0000";
+            "com.apple.networkserviceproxy.metadata-refresh" = "2021-02-22 10:04:42 +0000";
+            "com.apple.noticeboard.update" = "2021-02-22 10:04:42 +0000";
+            "com.apple.parsec-fbf.flush" = "2021-02-22 10:49:43 +0000";
+            "com.apple.photoanalysisd.backgroundanalysis" = "2021-02-22 10:04:42 +0000";
+            "com.apple.photolibraryd.curatedlibraryprocessing" = "2021-02-22 10:04:42 +0000";
+            "com.apple.photolibraryd.periodicmaintenance" = "2021-02-22 10:04:42 +0000";
+            "com.apple.proactive.PersonalizationPortrait.ContactsImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.CoreRoutineImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.DailyDataCollectionPortraitAnalytics" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.DailyMetricsLogging" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.DecayedFeedbackCleanup" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.DecayedFeedbackCountsDecay" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.EntityBackfill" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.EventKitImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.FeedbackProcessing" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.LogLocationPerplexity" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.LogNamedEntityPerplexity" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.LogTopicPerplexity" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.MapsImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.NamedEntityFiltering" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.NamedEntityImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.NamedEntityRepairAndExport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.OptimizeDatabase" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.PendingFeedbackTTLCleanup" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.RTCSendLogs" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.RemotelyDonatedRecordCleanup" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.TTLBasedDonationCleanup" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.TTLBasedFeedbackRecordCleanup" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.TopicImport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactive.PersonalizationPortrait.TopicRepairAndExport" = "2021-02-22 10:04:55 +0000";
+            "com.apple.proactiveeventtrackerd.sendDaily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.proactiveeventtrackerd.updateAssetMetadata" = "2021-02-22 10:04:42 +0000";
+            "com.apple.quicklook.cloudThumbnailDatabaseCleanup" = "2021-02-22 10:04:42 +0000";
+            "com.apple.routined.assets" = "2021-02-22 10:04:50 +0000";
+            "com.apple.routined.learnedLocationEngine.train" = "2021-02-22 10:04:50 +0000";
+            "com.apple.routined.locationAwareness.heartbeat" = "2021-02-22 10:04:50 +0000";
+            "com.apple.routined.metrics.daily" = "2021-02-22 10:04:50 +0000";
+            "com.apple.routined.persistence.mirroring.background" = "2021-02-22 10:04:50 +0000";
+            "com.apple.routined.purge" = "2021-02-22 10:04:50 +0000";
+            "com.apple.searchd.expirations" = "2021-02-22 10:04:42 +0000";
+            "com.apple.searchd.expirations.AB" = "2021-02-22 10:04:42 +0000";
+            "com.apple.securityd.daily" = "2021-02-22 10:04:42 +0000";
+            "com.apple.securityd.entropyhealth" = "2021-02-22 10:04:42 +0000";
+            "com.apple.securityd.prng" = "2021-02-22 10:04:42 +0000";
+            "com.apple.securityuploadd.triggerupload" = "2021-02-22 10:04:42 +0000";
+            "com.apple.siri.xpc_activity.cloudkitsync.weekly" = "2021-02-22 10:04:55 +0000";
+            "com.apple.siri.xpc_activity.heartbeat" = "2021-02-22 10:04:50 +0000";
+            "com.apple.siri.xpc_activity.media-indexer" = "2021-02-22 10:04:55 +0000";
+            "com.apple.siri.xpc_activity.metrics-sender" = "2021-02-22 10:04:55 +0000";
+            "com.apple.siri.xpc_activity.refresh_validation" = "2021-02-22 10:05:43 +0000";
+            "com.apple.siri.xpc_activity.service_maintenance" = "2021-02-22 10:04:55 +0000";
+            "com.apple.siri.xpc_activity.sync.daily" = "2021-02-22 10:04:50 +0000";
+            "com.apple.spotlight.modelUpdating" = "2021-02-22 10:06:24 +0000";
+            "com.apple.spotlight.sendmlfeedback" = "2021-02-22 10:06:23 +0000";
+            "com.apple.suggestd.cd-cache-rebuild" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.identityanalysis" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.ma-metadata-download" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.process-pending-geocodes" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.process-pending-verification" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.sendrtc" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.trim" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestd.vacuum" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestions.collectweeklystats" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestions.harvest" = "2021-02-22 10:04:42 +0000";
+            "com.apple.suggestions.sqlentitystore.cacheprecomputation" = "2021-02-22 10:04:42 +0000";
+            "com.apple.syncdefaultsd" = "2021-02-22 10:04:42 +0000";
+            "com.apple.telephonyutilities.callservicesd.csdvoipapplicationcontroller.daily" = "2021-02-22 10:04:50 +0000";
+            "com.apple.tourist.notify" = "2021-02-22 10:04:42 +0000";
+            "com.apple.transparencyd.dutycycle" = "2021-02-22 10:04:42 +0000";
+            "com.apple.triald.cellular" = "2021-02-22 10:58:18 +0000";
+            "com.apple.triald.fetch-experiments" = "2021-02-22 10:15:50 +0000";
+        };
+        ProductBuildVersion = 20D75;
+        VersionSpecificActivitiesRun =         (
+            "com.apple.avatar.activity.PostInstallMigration",
+            "com.apple.routined.persistence.mirroring.post-install",
+            "com.apple.icloud.searchpartyuseragent.post-install"
+        );
+    };
+    "com.vmware.tools" =     {
+        enableAutoHiDPI = 1;
+    };
+    "knowledge-agent" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            cc2d1c7a7e3c76c700299cd8cd1931aaf9280c00be8148123aa792ee6618c7d6 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    loginwindow =     {
+        BuildVersionStampAsNumber = 42142048;
+        BuildVersionStampAsString = 20D75;
+        SystemVersionStampAsNumber = 184680704;
+        SystemVersionStampAsString = "11.2.1";
+    };
+    pbs =     {
+        FinderActive =         {
+            "APPEXTENSION-com.apple.finder.CreatePDFQuickAction" = 1;
+            "APPEXTENSION-com.apple.finder.MarkupQuickAction" = 1;
+            "APPEXTENSION-com.apple.finder.RotateQuickAction" = 1;
+            "APPEXTENSION-com.apple.finder.TrimQuickAction" = 1;
+        };
+        FinderOrdering =         {
+            "APPEXTENSION-com.apple.finder.CreatePDFQuickAction" = 2;
+            "APPEXTENSION-com.apple.finder.MarkupQuickAction" = 1;
+            "APPEXTENSION-com.apple.finder.RotateQuickAction" = 0;
+            "APPEXTENSION-com.apple.finder.TrimQuickAction" = 3;
+        };
+    };
+    siriknowledged =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+        CloudKitAccountInfoCache =         {
+            6953a207ab04b64fac27d41027a99c28318f42ab152f04c466e08ec91ada1380 = {length = 394, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 0000012c };
+        };
+    };
+    "systemgroup.com.apple.icloud.searchpartyd.sharedsettings" =     {
+        SPSettingsServiceDisabledReasonsKey =         (
+            SPDisabledReasoniCloudSignedOut
+        );
+        "beaconObservationStore.lastAutomaticTimeValue" = 1;
+    };
+}

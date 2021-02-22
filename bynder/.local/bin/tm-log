@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+LAST=${1:-3h}
+#ARGS=( --style default --info --predicate 'processImagePath contains "backupd" and subsystem contains "com.apple.TimeMachine"' )
+ARGS=( --style default --info --predicate 'subsystem == "com.apple.TimeMachine"' )
+
+log() {
+    /usr/bin/log "$@" "${ARGS[@]}" --color=always | tr -s ' ' | cut -d' ' -f 1,2,8-
+}
+
+log show --last $LAST
+log stream

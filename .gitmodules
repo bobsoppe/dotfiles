@@ -1,3 +1,6 @@
 [submodule "bynder/.local/src/mu-repo"]
 	path = bynder/.local/src/mu-repo
 	url = git://github.com/fabioz/mu-repo.git
+[submodule "bynder/.local/src/ModPackDownloader"]
+	path = bynder/.local/src/ModPackDownloader
+	url = git@github.com:Nincraft/ModPackDownloader.git

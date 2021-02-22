@@ -1,5 +1,5 @@
 {
-    AKLastEmailListRequestDateKey = "2021-02-05 18:52:15 +0000";
+    AKLastEmailListRequestDateKey = "2021-02-22 05:47:12 +0000";
     AKLastIDMSEnvironment = 0;
     AppleActionOnDoubleClick = Maximize;
     AppleAntiAliasingThreshold = 4;
@@ -36,7 +36,7 @@
     NSAutomaticTextCompletionEnabled = 0;
     NSDocumentSaveNewDocumentsToCloud = 0;
     NSLinguisticDataAssetsRequestLastInterval = 86400;
-    NSLinguisticDataAssetsRequestTime = "2021-02-06 08:23:27 +0000";
+    NSLinguisticDataAssetsRequestTime = "2021-02-21 17:58:48 +0000";
     NSLinguisticDataAssetsRequested =     (
         en,
         "en_NL",
@@ -54,11 +54,11 @@
     NSNavPanelFileLastListModeForOpenModeKey = 1;
     NSNavPanelFileListModeForOpenMode2 = 1;
     NSNavRecentPlaces =     (
-        "~/.dotfiles",
-        "~/Downloads/.cleanup",
-        "~/Work/brand-templates-tasks-svc/tests",
-        "~/Work/brand-templates-tasks-svc",
-        "~/Pictures/Huwelijk/Foto's"
+        "~/.dotfiles/defaults-unmodified",
+        "~/.vm",
+        "~/Library/Application Support/minecraft/instances/Valhelsia 3",
+        "~/Library/Application Support/minecraft/instances/ChatPlus",
+        "~/Programming/minecraft-chat-plus"
     );
     NSPersonNameDefaultDisplayNameOrder = 1;
     NSPersonNameDefaultShouldPreferNicknamesPreference = 0;

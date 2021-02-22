@@ -1,0 +1,21 @@
+{
+    AKLastIDMSEnvironment = 0;
+    AppleInterfaceStyle = Dark;
+    AppleLanguages =     (
+        "en-GB",
+        "nl-NL"
+    );
+    AppleLanguagesDidMigrate = "11.2.1";
+    AppleLanguagesSchemaVersion = 2000;
+    AppleLocale = "en_NL";
+    "com.apple.finder.SyncExtensions" =     {
+        collaborationMap =         {
+        };
+        dirMap =         {
+        };
+    };
+    "com.apple.sound.beep.flash" = 0;
+    "com.apple.springing.delay" = "0.5";
+    "com.apple.springing.enabled" = 1;
+    "com.apple.trackpad.forceClick" = 1;
+}

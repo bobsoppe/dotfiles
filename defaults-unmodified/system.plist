@@ -1,0 +1,371 @@
+{
+    "Apple Global Domain" =     {
+        "com.apple.sound.beep.flash" = 0;
+    };
+    "com.apple.AppleMultitouchMouse" =     {
+        MouseButtonDivision = 55;
+        MouseButtonMode = OneButton;
+        MouseHorizontalScroll = 1;
+        MouseMomentumScroll = 1;
+        MouseOneFingerDoubleTapGesture = 0;
+        MouseTwoFingerDoubleTapGesture = 3;
+        MouseTwoFingerHorizSwipeGesture = 2;
+        MouseVerticalScroll = 1;
+        UserPreferences = 1;
+    };
+    "com.apple.AppleMultitouchTrackpad" =     {
+        ActuateDetents = 1;
+        Clicking = 0;
+        DragLock = 0;
+        Dragging = 0;
+        FirstClickThreshold = 1;
+        ForceSuppressed = 0;
+        SecondClickThreshold = 1;
+        TrackpadCornerSecondaryClick = 0;
+        TrackpadFiveFingerPinchGesture = 2;
+        TrackpadFourFingerHorizSwipeGesture = 2;
+        TrackpadFourFingerPinchGesture = 2;
+        TrackpadFourFingerVertSwipeGesture = 2;
+        TrackpadHorizScroll = 1;
+        TrackpadMomentumScroll = 1;
+        TrackpadPinch = 1;
+        TrackpadRightClick = 1;
+        TrackpadRotate = 1;
+        TrackpadScroll = 1;
+        TrackpadThreeFingerDrag = 0;
+        TrackpadThreeFingerHorizSwipeGesture = 2;
+        TrackpadThreeFingerTapGesture = 2;
+        TrackpadThreeFingerVertSwipeGesture = 2;
+        TrackpadTwoFingerDoubleTapGesture = 1;
+        TrackpadTwoFingerFromRightEdgeSwipeGesture = 3;
+        UserPreferences = 1;
+    };
+    "com.apple.CoreBrightness" =     {
+        "CBUser-0" =         {
+            CBBlueReductionStatus =             {
+                AutoBlueReductionEnabled = 1;
+                BlueLightReductionSchedule =                 {
+                    DayStartHour = 7;
+                    DayStartMinute = 0;
+                    NightStartHour = 22;
+                    NightStartMinute = 0;
+                };
+                BlueReductionAvailable = 1;
+                BlueReductionEnabled = 0;
+                BlueReductionMode = 0;
+                BlueReductionSunScheduleAllowed = 1;
+                Version = 1;
+            };
+        };
+        "CBUser-319E6595-47BE-47B4-A36A-BFD64AF94751" =         {
+            CBBlueReductionStatus =             {
+                AutoBlueReductionEnabled = 1;
+                BlueLightReductionSchedule =                 {
+                    DayStartHour = 7;
+                    DayStartMinute = 0;
+                    NightStartHour = 22;
+                    NightStartMinute = 0;
+                };
+                BlueReductionAvailable = 1;
+                BlueReductionEnabled = 0;
+                BlueReductionMode = 0;
+                BlueReductionSunScheduleAllowed = 1;
+                Version = 1;
+            };
+        };
+    };
+    "com.apple.CoreGraphics" =     {
+        DisplayUseForcedGray = 0;
+        DisplayUseInvertedPolarity = 0;
+    };
+    "com.apple.CrashReporterSupportHelper" =     {
+        NetworkSignatures =         {
+            ExternalSignatures =             {
+                "IPv4.Router=192.168.243.2;IPv4.RouterHardwareAddress=00:50:56:e6:9c:e3" = "2021-02-22 09:16:42 +0000";
+            };
+        };
+    };
+    "com.apple.MobileAsset" =     {
+        LastDanglingReferenceCheck = "2021-02-22 09:16:12 +0000";
+    };
+    "com.apple.MobileSoftwareUpdate" =     {
+    };
+    "com.apple.UserAccountUpdater" =     {
+        "com.apple.HidLibraryFolderAlready" = 1;
+    };
+    "com.apple.WirelessRadioManager.debug" =     {
+        LogInfo =         {
+            LogLevels = 0x00000013;
+            LogToFile = FALSE;
+        };
+        iRATDebug =         {
+            HandoverAlert = FALSE;
+        };
+    };
+    "com.apple.airplay" =     {
+        pairPIN = 0;
+    };
+    "com.apple.awdd.persistent" =     {
+        anonymous = 1;
+        build = 20D75;
+        collectPII = 0;
+        deviceConfig = {length = 4, bytes = 0x08015002};
+        deviceconfigurationid = 1;
+        fileconfig =         {
+        };
+        filestate =         {
+            anonymous =             {
+                id = 18;
+                mask = 384;
+            };
+            primary =             {
+                id = 17;
+                mask = 384;
+            };
+        };
+        investigationid = 1;
+        lastboottime = 1613988161000;
+        publicationtimers = 0;
+        "tasked_time" = 0;
+        uniquefilenumber = 19;
+    };
+    "com.apple.bluetoothd" =     {
+        SMPCloudLocalNonce = {length = 16, bytes = 0x707dae74d1675342139ef97451894a45};
+        SMPCloudLocalPrivateKey = {length = 96, bytes = 0x64cef36a 9ab0b6d8 d5b72b1e b40271d6 ... c2c06221 922d0eb8 };
+        SMPCloudLocalPublicKey = {length = 64, bytes = 0x64cef36a 9ab0b6d8 d5b72b1e b40271d6 ... f281652c 9aa92014 };
+    };
+    "com.apple.corecaptured" =     {
+        "prune_dir_os_upgrade_snapshot" = 20D75;
+    };
+    "com.apple.coreduetd" =     {
+        InteractionStoreVersion = 1;
+    };
+    "com.apple.das.fairscheduling" =     {
+        priorityQueue =         {
+        };
+    };
+    "com.apple.driver.AppleBluetoothMultitouch.mouse" =     {
+        MouseButtonDivision = 55;
+        MouseButtonMode = OneButton;
+        MouseHorizontalScroll = 1;
+        MouseMomentumScroll = 1;
+        MouseOneFingerDoubleTapGesture = 0;
+        MouseTwoFingerDoubleTapGesture = 3;
+        MouseTwoFingerHorizSwipeGesture = 2;
+        MouseVerticalScroll = 1;
+        UserPreferences = 1;
+    };
+    "com.apple.driver.AppleBluetoothMultitouch.trackpad" =     {
+        Clicking = 0;
+        DragLock = 0;
+        Dragging = 0;
+        TrackpadCornerSecondaryClick = 0;
+        TrackpadFiveFingerPinchGesture = 2;
+        TrackpadFourFingerHorizSwipeGesture = 2;
+        TrackpadFourFingerPinchGesture = 2;
+        TrackpadFourFingerVertSwipeGesture = 2;
+        TrackpadHandResting = 1;
+        TrackpadHorizScroll = 1;
+        TrackpadMomentumScroll = 1;
+        TrackpadPinch = 1;
+        TrackpadRightClick = 1;
+        TrackpadRotate = 1;
+        TrackpadScroll = 1;
+        TrackpadThreeFingerDrag = 0;
+        TrackpadThreeFingerHorizSwipeGesture = 2;
+        TrackpadThreeFingerTapGesture = 2;
+        TrackpadThreeFingerVertSwipeGesture = 2;
+        TrackpadTwoFingerDoubleTapGesture = 1;
+        TrackpadTwoFingerFromRightEdgeSwipeGesture = 3;
+        USBMouseStopsTrackpad = 0;
+        UserPreferences = 1;
+    };
+    "com.apple.driver.AppleHIDMouse" =     {
+        Button1 = 1;
+        Button2 = 1;
+        Button3 = 0;
+        Button4 = 0;
+        Button4Click = 0;
+        Button4Force = 0;
+        ButtonDominance = 1;
+        ScrollH = 1;
+        ScrollS = 4;
+        ScrollSSize = 30;
+        ScrollV = 1;
+    };
+    "com.apple.icloud.findmydeviced" =     {
+        LastLaunchVersion = 20D75;
+    };
+    "com.apple.icloud.searchpartyd" =     {
+        "FMIPStateManager.fmipState" = 0;
+        LastOSLaunchVersion = 20D75;
+        lastLaunchBootSessionUUID = "FC48A4BA-D095-4451-B1FE-7AF7A70314AE";
+    };
+    "com.apple.mediaremote" =     {
+        ConnectedClientAuditTokens =         (
+            {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... a0860100 e4000000 },
+            {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... a6860100 78050000 },
+            {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... a0860100 fb010000 },
+            {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... a6860100 77030000 },
+            {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... a6860100 76030000 },
+            {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... a6860100 3b040000 },
+            {length = 32, bytes = 0xf5010000 f5010000 14000000 f5010000 ... a6860100 be040000 },
+            {length = 32, bytes = 0xffffffff 00000000 00000000 00000000 ... a0860100 0e010000 }
+        );
+        ExpectedClientAuditTokens =         (
+        );
+        LastBootUUID = "FC48A4BA-D095-4451-B1FE-7AF7A70314AE";
+        SystemEndpoint =         {
+            Proactive =             {
+                changeType = 0;
+                changeTypeDescription = Immediate;
+                date = "2021-02-22 10:02:56 +0000";
+                event = 0;
+                eventdescription = StartUp;
+                eventreason = Startup;
+                selectionreason = UserSelected;
+                timesince = "2.09808349609375e-05";
+                type = 1;
+            };
+            UserSelected =             {
+                changeType = 0;
+                changeTypeDescription = Immediate;
+                date = "2021-02-22 09:16:34 +0000";
+                event = 0;
+                eventdescription = StartUp;
+                eventreason = Startup;
+                selectionreason = "was not playing recently <63749757776.768433> ago and was not <UserSelected> recently <2782.061743> seconds ago";
+                timesince = "2782.079977989197";
+                type = 0;
+            };
+        };
+    };
+    "com.apple.mediaremoted" =     {
+        MRDBrowsableContentAPICoordinatorStoredCaseSensitive = 1;
+    };
+    "com.apple.rtcreporting" =     {
+        "CACHED_coreaudio_Last-Modified" = "Sat, 20 Feb 2021 00:02:57 GMT";
+        "CACHED_coreaudio_max-age" = 21600;
+        "CACHED_osxanalytics_Last-Modified" = "Fri, 13 Sep 2019 22:03:01 GMT";
+        "CACHED_osxanalytics_max-age" = 21600;
+        "CACHED_reflection_Last-Modified" = "Fri, 13 Sep 2019 22:03:02 GMT";
+        "CACHED_reflection_max-age" = 21600;
+        "Last-Successfully-Reported-At" = "2021-02-22 09:30:37 +0000";
+        uuidOverrideDNU = "3B1FE035-EA6D-49DC-BB88-BCA7FFB9F260";
+        uuidRespectDNU = "E2B9FE0A-93B5-44C7-B5F1-FC2E164A0A00";
+    };
+    "com.apple.security.ctkd-db" =     {
+        classes =         {
+            "com.apple.pivtoken" = "3029D68B-10E7-4706-B6BE-A18C0F17A76E";
+            "com.apple.setoken" = "088BBCE7-AF1E-4758-A2AD-3AEB30EC4892";
+        };
+        tokens =         {
+            "com.apple.setoken:aks" = {length = 432, bytes = 0x62706c69 73743030 d4010203 04050607 ... 00000000 00000136 };
+        };
+    };
+    "com.apple.symptomsd-diag" =     {
+        CKPerBootTasks =         (
+            CKAcccountInfoCacheReset
+        );
+        CKStartupTime = 1613988161;
+    };
+    "com.apple.tailspin" =     {
+        "tailspin_configuration_last_build_reset" = 20D75;
+    };
+    "com.apple.uarp.database" =     {
+    };
+    "com.apple.universalaccess" =     {
+        closeViewHotkeysEnabled = 0;
+        closeViewScrollWheelToggle = 0;
+        closeViewTrackpadGestureZoomEnabled = 0;
+        closeViewZoomDisplayID = 0;
+        closeViewZoomFactor = 1;
+        login = 0;
+        mouseDriver = 0;
+        sessionChange = 0;
+        slowKey = 0;
+        stickyKey = 0;
+        switchOnOffKey = 0;
+        virtualKeyboardOnOff = 0;
+        voiceOverOnOffKey = 0;
+    };
+    "com.apple.xpc.activity2" =     {
+        ActivityBaseDates =         {
+            "<Unknown>" = "2021-02-22 09:40:42 +0000";
+            "com.apple.AccessoryUpdater.UARP.periodicFirmwareCheck" = "2021-02-22 09:17:11 +0000";
+            "com.apple.CoreAnalytics.2Hours" = "2021-02-22 09:16:36 +0000";
+            "com.apple.CoreAnalytics.6Hours" = "2021-02-22 09:16:36 +0000";
+            "com.apple.CoreAnalytics.Daily" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.PrivacyBudgetMaintenance" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.ReportFilesMaintenance" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.ReportGenerator" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.StorageCulling" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.StorageMaintenance" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.runtimeBlacklistMaintenance" = "2021-02-22 09:16:36 +0000";
+            "com.apple.DifferentialPrivacy.serverBlacklistUpdate" = "2021-02-22 09:16:36 +0000";
+            "com.apple.InstallerDiagnostics.installerdiagwatcher.rtcActivity" = "2021-02-22 09:21:55 +0000";
+            "com.apple.MobileAccessoryUpdater.periodicFirmwareCheck" = "2021-02-22 09:17:11 +0000";
+            "com.apple.OSUpdate.PeriodicAutoUpdateActions" = "2021-02-22 09:16:36 +0000";
+            "com.apple.SoftwareUpdate.Activity" = "2021-02-22 09:16:36 +0000";
+            "com.apple.SymptomFramework.MaintenanceActivity.Daily" = "2021-02-22 09:17:03 +0000";
+            "com.apple.aned.temporaryFilesMaintenance" = "2021-02-22 09:17:09 +0000";
+            "com.apple.applessdbgrefresh.activity" = "2021-02-22 09:16:35 +0000";
+            "com.apple.applessdstatistics.activity" = "2021-02-22 09:16:36 +0000";
+            "com.apple.backupd-auto" = "2021-02-22 09:16:36 +0000";
+            "com.apple.backupd-auto.dryspell" = "2021-02-22 09:16:36 +0000";
+            "com.apple.backupd-auto.dryspell.test" = "2021-02-22 09:16:36 +0000";
+            "com.apple.coreduetd.datacollection.task" = "2021-02-22 09:16:36 +0000";
+            "com.apple.coreduetd.knowledge" = "2021-02-22 09:16:36 +0000";
+            "com.apple.coreduetd.people" = "2021-02-22 09:16:49 +0000";
+            "com.apple.dasd.analyticsReporting" = "2021-02-22 09:16:36 +0000";
+            "com.apple.dasd.dataCollection" = "2021-02-22 09:16:36 +0000";
+            "com.apple.dasd.overdueCheck" = "2021-02-22 09:16:36 +0000";
+            "com.apple.diagnosticpipeline.cloudkit_activity" = "2021-02-22 09:16:36 +0000";
+            "com.apple.diagnosticpipeline.cloudkit_report_stats" = "2021-02-22 09:16:36 +0000";
+            "com.apple.driver.eficheck" = "2021-02-22 09:16:36 +0000";
+            "com.apple.family.heartbeat" = "2021-02-22 09:16:36 +0000";
+            "com.apple.locationd.MetricHeartbeat" = "2021-02-22 09:16:36 +0000";
+            "com.apple.lskdd" = "2021-02-22 09:16:36 +0000";
+            "com.apple.mDNSResponder.analytics.daily" = "2021-02-22 09:16:36 +0000";
+            "com.apple.mobile.keybagd.data-analytics" = "2021-02-22 09:16:36 +0000";
+            "com.apple.mobileactivationd.DCRT.OOB" = "1990-02-22 09:40:38 +0000";
+            "com.apple.mobileactivationd.UCRT.OOB" = "1990-02-22 09:40:38 +0000";
+            "com.apple.mobileactivationd.splunklogging" = "2021-02-22 09:16:36 +0000";
+            "com.apple.mobileactivationd.splunklogging.daily" = "2021-02-22 09:16:36 +0000";
+            "com.apple.mobileassetd.metadata-update" = "2021-02-22 09:16:36 +0000";
+            "com.apple.noticeboard.update" = "2021-02-22 09:16:36 +0000";
+            "com.apple.online-auth-agent.check-indeterminates" = "2021-02-22 09:16:36 +0000";
+            "com.apple.online-auth-agent.denylist-update" = "2021-02-22 09:16:36 +0000";
+            "com.apple.periodic-daily" = "2021-02-22 09:16:36 +0000";
+            "com.apple.periodic-monthly" = "2021-02-22 09:16:36 +0000";
+            "com.apple.periodic-weekly" = "2021-02-22 09:16:36 +0000";
+            "com.apple.powerdatad.3hourlyTask" = "2021-02-22 09:16:36 +0000";
+            "com.apple.revisiond.CacheDelete.purgeable-xpc" = "2021-02-22 09:16:36 +0000";
+            "com.apple.revisiond.requeue_chunking" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.check.revocation" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.find.bundles" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.gatekeeper.policy-metrics" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.invalidate" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.kext.deprecation" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.kext.mt" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.legacypolicy" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.measure" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.rearm" = "2021-02-22 09:16:36 +0000";
+            "com.apple.security.syspolicy.report" = "2021-02-22 09:16:36 +0000";
+            "com.apple.signpost.signpost_reporter_activity" = "2021-02-22 09:16:36 +0000";
+            "com.apple.siri.morphunassetsupdaterd" = "2021-02-22 09:16:36 +0000";
+            "com.apple.softwareupdated.logs-cleanup" = "2021-02-22 09:16:34 +0000";
+            "com.apple.systemstats.microstackshot_periodic" = "2021-02-22 09:16:36 +0000";
+            "com.apple.thermalMonitor.1weekTask" = "2021-02-22 09:16:36 +0000";
+            "com.apple.timezoneupdates.local-asset-check" = "2021-02-22 09:16:36 +0000";
+        };
+        ProductBuildVersion = 20D75;
+        VersionSpecificActivitiesRun =         (
+            "com.apple.mobileactivationd.UCRT.OOB",
+            "com.apple.mobileactivationd.DCRT.OOB"
+        );
+    };
+    systemmigrationd =     {
+        SMALPersistence = 0;
+    };
+}
