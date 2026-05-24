@@ -1,0 +1,74 @@
+[core]
+	excludesfile = {{ .chezmoi.homeDir }}/.config/git/ignore
+	fsmonitor = true
+
+[column]
+	ui = auto
+
+[pager]
+	diff = less -+FX
+
+[branch]
+	sort = -committerdate
+
+[init]
+	defaultBranch = main
+
+[diff]
+	external = difft
+	algorithm = histogram
+	colorMoved = zebra
+	colorMovedWS = allow-indentation-change
+	mnemonicPrefix = true
+	renames = true
+
+[push]
+	default = simple
+	autoSetupRemote = true
+	followTags = true
+
+[fetch]
+	prune = true
+	pruneTags = true
+	all = true
+
+[user]
+	name = Bob Soppe-van Aart
+	email = bobsoppe@users.noreply.github.com
+	signingkey = {{ output "op" "read" "op://Private/a2uvrnryxvhrujqg7gnbakh7qa/public_key" "--account" "my.1password.eu" | trim }}
+
+[commit]
+	verbose = true
+	gpgsign = true
+
+[gpg]
+	format = ssh
+
+[gpg "ssh"]
+	program = "/Applications/1Password.app/Contents/MacOS/op-ssh-sign"
+	allowedSignersFile = ~/.config/git/allowed_signers
+
+[tag]
+	gpgsign = true
+	sort = -version:refname
+
+[rerere]
+	enabled = true
+	autoupdate = true
+
+[rebase]
+	autoSquash = true
+	autoStash = true
+	updateRefs = true
+
+[help]
+	autocorrect = prompt
+
+[checkout]
+	defaultRemote = upstream
+
+[pull]
+	rebase = true
+
+[merge]
+	conflictStyle = zdiff3

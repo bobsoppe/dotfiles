@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>dev.jorgebucaran.fisher.update</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>{{ .chezmoi.homeDir }}/.local/bin/fisher-update</string>
+    </array>
+
+    <!-- Run once when the agent is loaded (login, reboot, manual bootstrap).
+         Catches the case where the laptop was off across the scheduled time. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- Daily at 09:00 local time. launchd runs this on next wake if the
+         machine was asleep at the scheduled time. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Don't relaunch on failure — wait for the next scheduled fire. -->
+    <key>KeepAlive</key>
+    <false/>
+
+    <!-- Logs. The fish script also writes its own log; these capture
+         anything it can't (e.g. interpreter not found). -->
+    <key>StandardOutPath</key>
+    <string>{{ .chezmoi.homeDir }}/Library/Logs/fisher-update.launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>{{ .chezmoi.homeDir }}/Library/Logs/fisher-update.launchd.log</string>
+
+    <!-- Inherit a sane PATH for fish + fisher (git, curl). -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+        <key>HOME</key>
+        <string>{{ .chezmoi.homeDir }}</string>
+    </dict>
+
+    <!-- Be a good citizen — low I/O priority. -->
+    <key>LowPriorityIO</key>
+    <true/>
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

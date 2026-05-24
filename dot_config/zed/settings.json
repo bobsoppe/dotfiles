@@ -1,0 +1,122 @@
+{
+  "buffer_font_size": 14.0,
+  "ui_font_size": 14.0,
+  "buffer_line_height": "comfortable",
+  "buffer_font_family": "Monaspace Neon NF",
+  "ui_font_family": ".SystemUIFont",
+  // Monaspace OpenType stylistic-set toolkit (ss01–ss10) + ligatures.
+  "buffer_font_features": {
+    "calt": true,
+    "ss01": true,
+    "ss02": true,
+    "ss03": true,
+    "ss04": true,
+    "ss05": true,
+    "ss06": true,
+    "ss07": true,
+    "ss08": true,
+    "ss09": true,
+    "ss10": true,
+    "liga": true
+  },
+  // JetBrains-style keybindings (muscle memory from IntelliJ / WebStorm).
+  "base_keymap": "JetBrains",
+  "soft_wrap": "editor_width",
+  "show_wrap_guides": true,
+  "scroll_beyond_last_line": "off",
+  "document_folding_ranges": "on",
+  "cli_default_open_behavior": "existing_window",
+  "autosave": "on_focus_change",
+  "format_on_save": "on",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "edit_predictions": {
+    "provider": "copilot"
+  },
+  "prettier": {
+    "allowed": false
+  },
+  // SHA256-PINNED — DO NOT MODIFY. opencode integration via Zed agent_servers registry.
+  "agent_servers": {
+    "opencode": {
+      "default_config_options": {
+        "mode": "Prometheus (Plan Builder)"
+      },
+      "type": "registry"
+    }
+  },
+  "agent": {
+    "sidebar_side": "right",
+    "dock": "right",
+    "inline_assistant_model": {
+      "provider": "copilot_chat",
+      "model": "claude-opus-4.6"
+    }
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Frappé"
+  },
+  "icon_theme": {
+    "mode": "system",
+    "light": "Catppuccin Latte",
+    "dark": "Catppuccin Frappé"
+  },
+  "tab_bar": {
+    "show": false
+  },
+  "status_bar": {
+    "show_active_file": false
+  },
+  "title_bar": {
+    "show_menus": false,
+    "show_user_picture": false,
+    "show_user_menu": false,
+    "show_onboarding_banner": false,
+    "show_sign_in": false
+  },
+  "toolbar": {
+    "quick_actions": false
+  },
+  "gutter": {
+    "breakpoints": false
+  },
+  "debugger": {
+    "button": false
+  },
+  "diagnostics": {
+    "button": false
+  },
+  "terminal": {
+    "font_family": "Monaspace Neon NF",
+    "button": false
+  },
+  "outline_panel": {
+    "button": false,
+    "dock": "right"
+  },
+  "collaboration_panel": {
+    "button": false,
+    "dock": "right"
+  },
+  "git_panel": {
+    "button": false,
+    "dock": "right"
+  },
+  "project_panel": {
+    "entry_spacing": "comfortable",
+    "dock": "left",
+    "hide_root": true,
+    "default_width": 500
+  },
+  "languages": {
+    "JavaScript": {
+      "code_actions_on_format": {
+        "source.fixAll.eslint": true
+      }
+    }
+  }
+}

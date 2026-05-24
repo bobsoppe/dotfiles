@@ -1,0 +1,199 @@
+# Global gitignore
+
+
+# ===
+# AI Tools & Coding Assistants
+# ===
+
+## OpenCode (oh-my-openagent)
+.opencode/
+
+## Claude Code / Anthropic
+.claude/
+
+## Cursor IDE
+.cursor/
+
+## Aider
+.aider*
+
+## OhMyOpenAgent / Sisyphus
+.sisyphus/*
+!.sisyphus/rules/
+
+## Git worktrees
+.worktrees/*
+
+
+
+# ===
+# Secrets & Environment
+# ===
+
+.env
+.env.*
+!.env.example
+!.env.sample
+*.local
+
+
+
+# ===
+# Build Artifacts & Caches
+# ===
+
+## Next.js
+.next/
+out/
+
+## Nuxt
+.nuxt/
+.output/
+
+## Turborepo
+.turbo/
+
+
+
+# ===
+# Editor / IDE
+# ===
+
+## Zed
+# https://zed.dev/docs/configuring-zed#settings-files
+#
+# Zed stores project settings in a .zed/ directory, similar to .vscode/.
+# By default, ignore the directory but allow commonly shared config files.
+.zed/*
+!.zed/settings.json
+!.zed/tasks.json
+!.zed/debug.json
+
+## Vim / Neovim swap and backup files
+*.swp
+*.swo
+*~
+
+
+
+# ===
+# macOS
+# ===
+
+## General
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+Icon[
+]
+
+## Resource forks
+._*
+
+## Files and directories that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.com.apple.timemachine.supported
+.PKInstallSandboxManager
+.PKInstallSandboxManager-SystemSoftware
+.hotfiles.btree
+.vol
+.file
+.disk_label*
+lost+found
+.HFS+ Private Directory Data[
+]
+
+## Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+## Mac OS 6 to 9 (legacy, retained for full canonical coverage)
+Desktop DB
+Desktop DF
+TheFindByContentFolder
+TheVolumeSettingsFolder
+.FBCIndex
+.FBCSemaphoreFile
+.FBCLockFolder
+
+## Quota system
+.quota.group
+.quota.user
+.quota.ops.group
+.quota.ops.user
+
+## TimeMachine
+Backups.backupdb
+.MobileBackups
+.MobileBackups.trash
+MobileBackups.trash
+tmbootpicker.efi
+
+
+
+# ===
+# Backup files
+# ===
+
+## Generic backup files
+*.bak
+*.back
+*.backup
+
+## Norton Ghost backup files
+*.gho
+
+## Generic original files
+*.ori
+*.orig
+*.original
+
+## Generic temporary files
+*.tmp
+*.temp
+*.temporary
+
+
+
+# ===
+# Diff & Patch
+# ===
+
+*.patch
+*.diff
+
+
+
+# ===
+# GPG
+# ===
+
+secring.*
+
+
+
+# ===
+# Python virtual environments
+# ===
+# https://realpython.com/python-virtual-environments-a-primer/#the-virtualenv-project
+
+.venv/
+venv/
+.python-version
+
+## pyenv: Simple Python Version Management
+pyvenv.cfg
+
+## pip: package installer for Python
+pip-selfcheck.json

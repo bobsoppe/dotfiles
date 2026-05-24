@@ -1,0 +1,5 @@
+# 1Password SSH agent config — which vaults expose keys.
+# Docs: https://developer.1password.com/docs/ssh/agent/config
+
+[[ssh-keys]]
+vault = "Private"

@@ -1,0 +1,35 @@
+#!/opt/homebrew/bin/fish
+# Update all Fisher-managed plugins. Logs to ~/Library/Logs/fisher-update.log.
+#
+# Invoked by ~/Library/LaunchAgents/dev.jorgebucaran.fisher.update.plist on a
+# daily schedule (and at load).
+#
+# Manual run:
+#   fisher-update
+#   launchctl kickstart --kill gui/$UID/dev.jorgebucaran.fisher.update
+#
+# NOT sourced from interactive shell startup — running fisher update from a
+# starting shell races fish's sourcing of conf.d/, functions/, completions/.
+
+set --local log "$HOME/Library/Logs/fisher-update.log"
+set --local ts (date -u +"%Y-%m-%dT%H:%M:%SZ")
+
+echo "[$ts] fisher-update starting" >>$log
+
+# Ensure Homebrew tools (git, fisher's deps) are on PATH for launchd context.
+fish_add_path --global /opt/homebrew/bin /opt/homebrew/sbin /usr/local/bin
+
+if not type --query fisher
+    echo "[$ts] fisher function not available — aborting" >>$log
+    exit 1
+end
+
+if fisher update >>$log 2>&1
+    set --local done_ts (date -u +"%Y-%m-%dT%H:%M:%SZ")
+    echo "[$done_ts] fisher-update finished OK" >>$log
+    exit 0
+else
+    set --local fail_ts (date -u +"%Y-%m-%dT%H:%M:%SZ")
+    echo "[$fail_ts] fisher-update FAILED with status $status" >>$log
+    exit 1
+end

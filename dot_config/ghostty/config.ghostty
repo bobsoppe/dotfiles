@@ -1,0 +1,36 @@
+font-family = "Monaspace Neon NF Regular"
+font-family-bold = "Monaspace Neon NF Bold"
+font-family-italic = "Monaspace Neon NF Italic"
+font-family-bold-italic = "Monaspace Neon NF Bold Italic"
+font-size = 14
+font-thicken = true
+adjust-cell-height = 33.33%
+
+theme = catppuccin-frappe.conf
+
+cursor-style = bar
+cursor-click-to-move = true
+
+background-opacity = 0.95
+background-blur = 20
+
+scrollback-limit = 500000000
+
+working-directory = home
+window-inherit-working-directory = false
+tab-inherit-working-directory = false
+
+window-padding-x = 32
+window-padding-y = 32
+window-padding-balance = true
+
+quit-after-last-window-closed = true
+
+macos-titlebar-style = tabs
+macos-option-as-alt = true
+macos-auto-secure-input = true
+
+macos-icon = custom-style
+macos-icon-frame = aluminum
+macos-icon-ghost-color = D8DEE9
+macos-icon-screen-color = 2E3440,3B4252

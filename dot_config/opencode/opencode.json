@@ -1,0 +1,205 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "autoupdate": "notify",
+  "enabled_providers": [
+    "github-copilot",
+    "amazon-bedrock"
+  ],
+  "provider": {
+    "amazon-bedrock": {
+      "options": {
+        "profile": "development",
+        "region": "eu-central-1",
+        "setCacheKey": true
+      }
+    },
+    "github-copilot": {
+      "options": {
+        "setCacheKey": true
+      }
+    }
+  },
+  "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7",
+  "small_model": "amazon-bedrock/anthropic.claude-haiku-4-5-20251001-v1:0",
+  "agent": {
+    "build": {
+      "disable": true
+    },
+    "plan": {
+      "disable": true
+    }
+  },
+  "mcp": {
+    "context-mode": {
+      "type": "local",
+      "command": [
+        "npx",
+        "-y",
+        "context-mode@1.0.146"
+      ]
+    }
+  },
+  "plugin": [
+    "context-mode@1.0.146",
+    "oh-my-openagent@4.2.3"
+  ],
+  "permission": {
+    "edit": {
+      "**": "allow",
+      "**/*.key": "deny",
+      "**/*.pem": "deny",
+      "**/*.tfstate*": "deny",
+      "**/*credentials*": "deny",
+      "**/*secret*": "deny",
+      "**/.aws/**": "deny",
+      "**/.docker/config.json": "deny",
+      "**/.env*": "deny",
+      "**/.git/**": "deny",
+      "**/.gnupg/**": "deny",
+      "**/.kube/**": "deny",
+      "**/.netrc": "deny",
+      "**/.npmrc": "deny",
+      "**/.pypirc": "deny",
+      "**/.ssh/**": "deny",
+      "**/id_*": "deny"
+    },
+    "read": {
+      "**": "allow",
+      "**/*.key": "deny",
+      "**/*.pem": "deny",
+      "**/*.tfstate*": "deny",
+      "**/*credentials*": "deny",
+      "**/*secret*": "deny",
+      "**/.aws/**": "deny",
+      "**/.docker/config.json": "deny",
+      "**/.env*": "deny",
+      "**/.git/**": "deny",
+      "**/.gnupg/**": "deny",
+      "**/.kube/**": "deny",
+      "**/.netrc": "deny",
+      "**/.npmrc": "deny",
+      "**/.pypirc": "deny",
+      "**/.ssh/**": "deny",
+      "**/id_*": "deny"
+    },
+    "bash": {
+      "*": "allow",
+      "chmod 777*": "deny",
+      "curl * | bash": "deny",
+      "curl * | sh": "deny",
+      "eval *": "deny",
+      "rm -r *": "deny",
+      "rm -rf *": "deny",
+      "sudo chmod *": "deny",
+      "sudo rm *": "deny",
+      "wget * | sh": "deny",
+      "*/terraform.sh *": "ask",
+      "*/terraform.sh *fmt*": "allow",
+      "*/terraform.sh *output*": "allow",
+      "*/terraform.sh *plan*": "allow",
+      "*/terraform.sh *show*": "allow",
+      "*/terraform.sh *validate*": "allow",
+      "brew install*": "ask",
+      "bun add*": "ask",
+      "bun install*": "ask",
+      "cargo install*": "ask",
+      "docker compose down*": "ask",
+      "git clean -fd*": "ask",
+      "git push --delete*": "ask",
+      "git push --force*": "ask",
+      "git push -f *": "ask",
+      "git rebase*": "ask",
+      "git reset --hard*": "ask",
+      "kubectl *": "ask",
+      "kubectl *api-resources*": "allow",
+      "kubectl *auth can-i*": "allow",
+      "kubectl *cluster-info*": "allow",
+      "kubectl *config*": "allow",
+      "kubectl *describe*": "allow",
+      "kubectl *explain*": "allow",
+      "kubectl *get*": "allow",
+      "kubectl *logs*": "allow",
+      "kubectl *top*": "allow",
+      "kubectl *version*": "allow",
+      "npm install*": "ask",
+      "opentofu *": "ask",
+      "opentofu *fmt*": "allow",
+      "opentofu *graph*": "allow",
+      "opentofu *output*": "allow",
+      "opentofu *plan*": "allow",
+      "opentofu *providers*": "allow",
+      "opentofu *show*": "allow",
+      "opentofu *validate*": "allow",
+      "opentofu *version*": "allow",
+      "pip3 install*": "ask",
+      "pnpm add*": "ask",
+      "pnpm install*": "ask",
+      "poetry add*": "ask",
+      "sudo *": "ask",
+      "terraform *": "ask",
+      "terraform *fmt*": "allow",
+      "terraform *graph*": "allow",
+      "terraform *output*": "allow",
+      "terraform *plan*": "allow",
+      "terraform *providers*": "allow",
+      "terraform *show*": "allow",
+      "terraform *validate*": "allow",
+      "terraform *version*": "allow",
+      "terraform.sh *": "ask",
+      "terraform.sh *fmt*": "allow",
+      "terraform.sh *output*": "allow",
+      "terraform.sh *plan*": "allow",
+      "terraform.sh *show*": "allow",
+      "terraform.sh *validate*": "allow",
+      "tofu *": "ask",
+      "tofu *fmt*": "allow",
+      "tofu *graph*": "allow",
+      "tofu *output*": "allow",
+      "tofu *plan*": "allow",
+      "tofu *providers*": "allow",
+      "tofu *show*": "allow",
+      "tofu *validate*": "allow",
+      "tofu *version*": "allow",
+      "uv pip install*": "ask",
+      "yarn add*": "ask"
+    }
+  },
+  "watcher": {
+    "ignore": [
+      "*.log",
+      "*.tfstate*",
+      ".cache/**",
+      ".coverage*",
+      ".DS_Store",
+      ".git/**",
+      ".gradle/**",
+      ".idea/**",
+      ".mypy_cache/**",
+      ".next/**",
+      ".nuxt/**",
+      ".nyc_output/**",
+      ".output/**",
+      ".parcel-cache/**",
+      ".pnpm-store/**",
+      ".pytest_cache/**",
+      ".ruff_cache/**",
+      ".terraform/**",
+      ".tox/**",
+      ".turbo/**",
+      ".venv/**",
+      ".vscode/**",
+      ".yarn/**",
+      "__pycache__/**",
+      "build/**",
+      "coverage/**",
+      "dist/**",
+      "node_modules/**",
+      "out/**",
+      "target/**",
+      "temp/**",
+      "tmp/**",
+      "vendor/**",
+      "venv/**"
+    ]
+  }
+}

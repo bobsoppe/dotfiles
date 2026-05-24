@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+docker ps --all --format 'table{{.Names}}\t{{.Status}}\t{{.Image}}\t{{.Command}}\t{{.CreatedAt}}' \
+| awk 'NR == 1; NR > 1 {print $0 | "sort --numeric-sort"}'

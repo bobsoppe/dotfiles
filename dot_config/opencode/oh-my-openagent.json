@@ -1,0 +1,100 @@
+{
+  "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/assets/oh-my-opencode.schema.json",
+  "experimental": {
+    "disable_omo_env": true
+  },
+  "disabled_hooks": [
+    "startup-toast"
+  ],
+  "disabled_skills": [
+    "playwright",
+    "dev-browser",
+    "frontend-ui-ux"
+  ],
+  "disabled_commands": [
+    "ralph-loop",
+    "ulw-loop",
+    "cancel-ralph",
+    "stop-continuation"
+  ],
+  "hashline_edit": true,
+  "model_fallback": true,
+  "runtime_fallback": {
+    "enabled": true,
+    "max_fallback_attempts": 5,
+    "cooldown_seconds": 30,
+    "notify_on_fallback": true
+  },
+  "agents": {
+    "sisyphus": {
+      "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7",
+      "textVerbosity": "low"
+    },
+    "sisyphus-junior": {
+      "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7",
+      "textVerbosity": "low"
+    },
+    "hephaestus": {
+      "model": "github-copilot/gpt-5.4",
+      "textVerbosity": "low"
+    },
+    "oracle": {
+      "model": "github-copilot/gpt-5.4",
+      "textVerbosity": "low"
+    },
+    "librarian": {
+      "model": "amazon-bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "textVerbosity": "low"
+    },
+    "explore": {
+      "model": "amazon-bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "textVerbosity": "low"
+    },
+    "multimodal-looker": {
+      "model": "github-copilot/gpt-5.4",
+      "textVerbosity": "low"
+    },
+    "prometheus": {
+      "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7",
+      "textVerbosity": "low"
+    },
+    "metis": {
+      "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7",
+      "textVerbosity": "low"
+    },
+    "momus": {
+      "model": "github-copilot/gpt-5.4",
+      "textVerbosity": "low"
+    },
+    "atlas": {
+      "model": "github-copilot/claude-sonnet-4.6",
+      "textVerbosity": "low"
+    }
+  },
+  "categories": {
+    "visual-engineering": {
+      "model": "github-copilot/gemini-3.1-pro-preview"
+    },
+    "ultrabrain": {
+      "model": "github-copilot/gpt-5.4"
+    },
+    "deep": {
+      "model": "github-copilot/gpt-5.4"
+    },
+    "artistry": {
+      "model": "github-copilot/gemini-3.1-pro-preview"
+    },
+    "quick": {
+      "model": "amazon-bedrock/eu.anthropic.claude-haiku-4-5-20251001-v1:0"
+    },
+    "unspecified-low": {
+      "model": "github-copilot/claude-sonnet-4.6"
+    },
+    "unspecified-high": {
+      "model": "amazon-bedrock/eu.anthropic.claude-opus-4-7"
+    },
+    "writing": {
+      "model": "github-copilot/claude-sonnet-4.6"
+    }
+  }
+}
